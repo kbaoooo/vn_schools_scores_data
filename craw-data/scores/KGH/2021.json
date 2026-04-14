@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 99511,
+      "school_id": 279,
+      "code": "7860203",
+      "display_code": null,
+      "name": "Sĩ quan CHTM Không quân (Sĩ quan lái máy bay)",
+      "block": "A00;A01",
+      "mark": 19.6,
+      "quota": null,
+      "type": 1,
+      "mark_type": 1,
+      "year": 2021,
+      "introtext": "",
+      "created_at": "2025-01-01T00:28:01.000Z",
+      "updated_at": "2025-01-01T00:28:01.000Z",
+      "published_at": null,
+      "create_by": "huongpt",
+      "status_mark": 1,
+      "block_code": null,
+      "school_code": "KGH",
+      "formula": null,
+      "active": null,
+      "updated_by": null,
+      "admission_name": "Điểm thi THPT",
+      "admission_alias": "diem-thi-thpt"
+    }
+  ],
+  "msg": ""
+}

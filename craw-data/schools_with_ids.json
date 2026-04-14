@@ -1,0 +1,3526 @@
+{
+  "data": [
+    {
+      "school_id": 221,
+      "school_code": "ANH",
+      "school_name": "Học Viện An Ninh Nhân Dân",
+      "school_alias": "hoc-vien-an-ninh-nhan-dan"
+    },
+    {
+      "school_id": 223,
+      "school_code": "BPH",
+      "school_name": "Học Viện Biên Phòng",
+      "school_alias": "hoc-vien-bien-phong"
+    },
+    {
+      "school_id": 479,
+      "school_code": "HCP",
+      "school_name": "Học Viện Chính Sách và Phát Triển",
+      "school_alias": "hoc-vien-chinh-sach-va-phat-trien"
+    },
+    {
+      "school_id": 555,
+      "school_code": "HCA",
+      "school_name": "Học Viện Chính Trị Công An Nhân Dân",
+      "school_alias": "hoc-vien-chinh-tri-cong-an-nhan-dan"
+    },
+    {
+      "school_id": 227,
+      "school_code": "BVH",
+      "school_name": "Học Viện Công Nghệ Bưu Chính Viễn Thông",
+      "school_alias": "hoc-vien-cong-nghe-buu-chinh-vien-thong-phia-bac"
+    },
+    {
+      "school_id": 228,
+      "school_code": "BVS",
+      "school_name": "Học Viện Công Nghệ Bưu Chính Viễn Thông (Cơ sở TP.HCM)",
+      "school_alias": "hoc-vien-cong-nghe-buu-chinh-vien-thong-phia-nam"
+    },
+    {
+      "school_id": 229,
+      "school_code": "CSH",
+      "school_name": "Học Viện Cảnh Sát Nhân Dân",
+      "school_alias": "hoc-vien-canh-sat-nhan-dan"
+    },
+    {
+      "school_id": 1328,
+      "school_code": "HVD",
+      "school_name": "Học Viện Dân Tộc",
+      "school_alias": "hoc-vien-dan-toc"
+    },
+    {
+      "school_id": 230,
+      "school_code": "HHK",
+      "school_name": "Học Viện Hàng không Việt Nam",
+      "school_alias": "hoc-vien-hang-khong-viet-nam"
+    },
+    {
+      "school_id": 232,
+      "school_code": "HCS",
+      "school_name": "Học Viện Hành Chính Và Quản Trị Công (phía Nam)",
+      "school_alias": "hoc-vien-hanh-chinh-va-quan-tri-cong-phia-nam"
+    },
+    {
+      "school_id": 231,
+      "school_code": "HCH",
+      "school_name": "Học Viện Hành Chính và Quản trị công",
+      "school_alias": "hoc-vien-hanh-chinh-va-quan-tri-cong"
+    },
+    {
+      "school_id": 234,
+      "school_code": "HQH",
+      "school_name": "Học Viện Hải Quân",
+      "school_alias": "hoc-vien-hai-quan"
+    },
+    {
+      "school_id": 464,
+      "school_code": "HFH",
+      "school_name": "Học Viện Hậu Cần - Hệ Dân sự",
+      "school_alias": "hoc-vien-hau-can-he-dan-su"
+    },
+    {
+      "school_id": 236,
+      "school_code": "HEH",
+      "school_name": "Học Viện Hậu Cần - Hệ Quân sự",
+      "school_alias": "hoc-vien-hau-can-he-quan-su"
+    },
+    {
+      "school_id": 237,
+      "school_code": "DNH",
+      "school_name": "Học Viện Khoa Học Quân Sự - Hệ Dân sự",
+      "school_alias": "hoc-vien-khoa-hoc-quan-su-he-dan-su"
+    },
+    {
+      "school_id": 239,
+      "school_code": "NQH",
+      "school_name": "Học Viện Khoa Học Quân Sự - Hệ Quân sự",
+      "school_alias": "hoc-vien-khoa-hoc-quan-su-he-quan-su"
+    },
+    {
+      "school_id": 245,
+      "school_code": "KMA",
+      "school_name": "Học Viện Kỹ Thuật Mật Mã",
+      "school_alias": "hoc-vien-ky-thuat-mat-ma"
+    },
+    {
+      "school_id": 244,
+      "school_code": "DQH",
+      "school_name": "Học Viện Kỹ Thuật Quân Sự - Hệ Dân sự",
+      "school_alias": "hoc-vien-ky-thuat-quan-su-he-dan-su"
+    },
+    {
+      "school_id": 241,
+      "school_code": "KQH",
+      "school_name": "Học Viện Kỹ Thuật Quân Sự - Hệ Quân sự",
+      "school_alias": "hoc-vien-ky-thuat-quan-su-he-quan-su"
+    },
+    {
+      "school_id": 246,
+      "school_code": "HQT",
+      "school_name": "Học Viện Ngoại Giao",
+      "school_alias": "hoc-vien-ngoai-giao"
+    },
+    {
+      "school_id": 247,
+      "school_code": "NHH",
+      "school_name": "Học Viện Ngân Hàng",
+      "school_alias": "hoc-vien-ngan-hang"
+    },
+    {
+      "school_id": 572,
+      "school_code": "NHB",
+      "school_name": "Học Viện Ngân Hàng (Phân Viện Bắc Ninh)",
+      "school_alias": "hoc-vien-ngan-hang-phan-vien-bac-ninh"
+    },
+    {
+      "school_id": 524,
+      "school_code": "NHP",
+      "school_name": "Học Viện Ngân Hàng (Phân Viện Phú Yên)",
+      "school_alias": "hoc-vien-ngan-hang-phan-vien-phu-yen"
+    },
+    {
+      "school_id": 562,
+      "school_code": "HVN",
+      "school_name": "Học Viện Nông Nghiệp Việt Nam",
+      "school_alias": "hoc-vien-nong-nghiep-viet-nam"
+    },
+    {
+      "school_id": 252,
+      "school_code": "PKH",
+      "school_name": "Học Viện Phòng Không – Không Quân",
+      "school_alias": "hoc-vien-phong-khong-khong-quan"
+    },
+    {
+      "school_id": 556,
+      "school_code": "HPN",
+      "school_name": "Học Viện Phụ Nữ Việt Nam",
+      "school_alias": "hoc-vien-phu-nu-viet-nam"
+    },
+    {
+      "school_id": 253,
+      "school_code": "DYH",
+      "school_name": "Học Viện Quân Y - Hệ Dân sự",
+      "school_alias": "hoc-vien-quan-y-he-dan-su"
+    },
+    {
+      "school_id": 254,
+      "school_code": "YQH",
+      "school_name": "Học Viện Quân Y - Hệ Quân sự",
+      "school_alias": "hoc-vien-quan-y-he-quan-su"
+    },
+    {
+      "school_id": 257,
+      "school_code": "HVQ",
+      "school_name": "Học Viện Quản Lý Giáo Dục",
+      "school_alias": "hoc-vien-quan-ly-giao-duc"
+    },
+    {
+      "school_id": 525,
+      "school_code": "HTN",
+      "school_name": "Học Viện Thanh Thiếu Niên Việt Nam",
+      "school_alias": "hoc-vien-thanh-thieu-nien-viet-nam"
+    },
+    {
+      "school_id": 258,
+      "school_code": "HTC",
+      "school_name": "Học Viện Tài chính",
+      "school_alias": "hoc-vien-tai-chinh"
+    },
+    {
+      "school_id": 259,
+      "school_code": "HYD",
+      "school_name": "Học Viện Y Dược Học Cổ Truyền Việt Nam",
+      "school_alias": "hoc-vien-y-duoc-hoc-co-truyen-viet-nam"
+    },
+    {
+      "school_id": 260,
+      "school_code": "HVA",
+      "school_name": "Học Viện Âm Nhạc Huế",
+      "school_alias": "hoc-vien-am-nhac-hue"
+    },
+    {
+      "school_id": 261,
+      "school_code": "NVH",
+      "school_name": "Học Viện Âm Nhạc Quốc Gia Việt Nam",
+      "school_alias": "hoc-vien-am-nhac-quoc-gia-viet-nam"
+    },
+    {
+      "school_id": 224,
+      "school_code": "HBT",
+      "school_name": "Học viện Báo chí và Tuyên truyền",
+      "school_alias": "hoc-vien-bao-chi-va-tuyen-truyen"
+    },
+    {
+      "school_id": 1327,
+      "school_code": "CIV",
+      "school_name": "Học viện Công giáo Việt Nam",
+      "school_alias": "hoc-vien-cong-giao-viet-nam"
+    },
+    {
+      "school_id": 527,
+      "school_code": "HCB",
+      "school_name": "Học viện Kỹ thuật và Công nghệ an ninh (Phía Bắc)",
+      "school_alias": "hoc-vien-ky-thuat-cong-nghe-an-ninh-phia-bac"
+    },
+    {
+      "school_id": 528,
+      "school_code": "HCN",
+      "school_name": "Học viện Kỹ thuật và Công nghệ an ninh (Phía Nam)",
+      "school_alias": "hoc-vien-ky-thuat-va-cong-nghe-an-ninh-phia-nam"
+    },
+    {
+      "school_id": 1322,
+      "school_code": "LCDF",
+      "school_name": "Học viện Thiết kế và Thời trang London Hà Nội",
+      "school_alias": "hoc-vien-thiet-ke-va-thoi-trang-london-ha-noi"
+    },
+    {
+      "school_id": 579,
+      "school_code": "HTA",
+      "school_name": "Học viện Tòa án",
+      "school_alias": "hoc-vien-toa-an"
+    },
+    {
+      "school_id": 580,
+      "school_code": "HVC",
+      "school_name": "Học viện cán bộ TPHCM",
+      "school_alias": "hoc-vien-can-bo-tphcm"
+    },
+    {
+      "school_id": 264,
+      "school_code": "DHC",
+      "school_name": "Khoa Giáo Dục Thể Chất Huế",
+      "school_alias": "khoa-giao-duc-the-chat-hue"
+    },
+    {
+      "school_id": 1311,
+      "school_code": "DDG",
+      "school_name": "Khoa Giáo dục thể chất Đà Nẵng",
+      "school_alias": "khoa-giao-duc-the-chat-da-nang"
+    },
+    {
+      "school_id": 1317,
+      "school_code": "DHE",
+      "school_name": "Khoa Kỹ thuật và Công nghệ - Đại học Huế",
+      "school_alias": "khoa-ky-thuat-va-cong-nghe-dai-hoc-hue"
+    },
+    {
+      "school_id": 477,
+      "school_code": "DTQ",
+      "school_name": "Khoa Quốc Tế - Đại Học Thái Nguyên",
+      "school_alias": "khoa-quoc-te-dai-hoc-thai-nguyen"
+    },
+    {
+      "school_id": 1316,
+      "school_code": "DHI",
+      "school_name": "Khoa Quốc tế - Đại học Huế",
+      "school_alias": "khoa-quoc-te-dai-hoc-hue"
+    },
+    {
+      "school_id": 271,
+      "school_code": "NVS",
+      "school_name": "Nhạc Viện TPHCM",
+      "school_alias": "nhac-vien-tphcm"
+    },
+    {
+      "school_id": 272,
+      "school_code": "DHQ",
+      "school_name": "Phân Hiệu Đại Học Huế tại Quảng Trị",
+      "school_alias": "phan-hieu-dai-hoc-hue-tai-quang-tri"
+    },
+    {
+      "school_id": 571,
+      "school_code": "DTP",
+      "school_name": "Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai",
+      "school_alias": "phan-hieu-dai-hoc-thai-nguyen-tai-lao-cai"
+    },
+    {
+      "school_id": 273,
+      "school_code": "DDP",
+      "school_name": "Phân Hiệu Đại Học Đà Nẵng tại Kon Tum",
+      "school_alias": "phan-hieu-dai-hoc-da-nang-tai-kon-tum"
+    },
+    {
+      "school_id": 530,
+      "school_code": "LNS",
+      "school_name": "Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai",
+      "school_alias": "phan-hieu-dai-hoc-lam-nghiep-tai-dong-nai"
+    },
+    {
+      "school_id": 1332,
+      "school_code": "LNA",
+      "school_name": "Phân hiệu Đại học Lâm nghiệp tỉnh Gia Lai",
+      "school_alias": "phan-hieu-dai-hoc-lam-nghiep-tinh-gia-lai"
+    },
+    {
+      "school_id": 574,
+      "school_code": "NLG",
+      "school_name": "Phân hiệu Đại học Nông Lâm TPHCM tại Gia Lai",
+      "school_alias": "phan-hieu-dai-hoc-nong-lam-tphcm-tai-gia-lai"
+    },
+    {
+      "school_id": 575,
+      "school_code": "NLN",
+      "school_name": "Phân hiệu Đại học Nông Lâm TPHCM tại Ninh Thuận",
+      "school_alias": "phan-hieu-dai-hoc-nong-lam-tphcm-tai-ninh-thuan"
+    },
+    {
+      "school_id": 1334,
+      "school_code": "QSP",
+      "school_name": "Phân hiệu Đại học Quốc gia TPHCM tại Bến Tre",
+      "school_alias": "phan-hieu-dai-hoc-quoc-gia-tphcm-tai-ben-tre"
+    },
+    {
+      "school_id": 1333,
+      "school_code": "DTG",
+      "school_name": "Phân hiệu Đại học Thái Nguyên tại Hà Giang",
+      "school_alias": "phan-hieu-dai-hoc-thai-nguyen-tai-ha-giang"
+    },
+    {
+      "school_id": 1329,
+      "school_code": "XDN",
+      "school_name": "Phân hiệu Đại học Xây dựng miền Trung tại Đà Nẵng",
+      "school_alias": "phan-hieu-dai-hoc-xay-dung-mien-trung-tai-da-nang"
+    },
+    {
+      "school_id": 576,
+      "school_code": "YHT",
+      "school_name": "Phân hiệu Đại học Y Hà Nội tại Thanh Hóa",
+      "school_alias": "phan-hieu-dai-hoc-y-ha-noi-tai-thanh-hoa"
+    },
+    {
+      "school_id": 2,
+      "school_code": "CKB",
+      "school_name": "Trường Cao Đẳng Bách Khoa Đà Nẵng",
+      "school_alias": "cao-dang-bach-khoa-da-nang"
+    },
+    {
+      "school_id": 4,
+      "school_code": "CBV",
+      "school_name": "Trường Cao Đẳng Bách Việt",
+      "school_alias": "cao-dang-bach-viet"
+    },
+    {
+      "school_id": 5,
+      "school_code": "CBC",
+      "school_name": "Trường Cao Đẳng Bán Công Công Nghệ và Quản Trị Doanh Nghiệp",
+      "school_alias": "cao-dang-ban-cong-cong-nghe-va-quan-tri-doanh-nghiep"
+    },
+    {
+      "school_id": 1378,
+      "school_code": "CDD0225",
+      "school_name": "Trường Cao Đẳng Bình Minh Sài Gòn",
+      "school_alias": "truong-cao-dang-binh-minh-sai-gon"
+    },
+    {
+      "school_id": 116,
+      "school_code": "C43",
+      "school_name": "Trường Cao Đẳng Bình Phước",
+      "school_alias": "cao-dang-su-pham-binh-phuoc"
+    },
+    {
+      "school_id": 194,
+      "school_code": "CYX",
+      "school_name": "Trường Cao Đẳng Bình Thuận",
+      "school_alias": "cao-dang-y-te-binh-thuan"
+    },
+    {
+      "school_id": 6,
+      "school_code": "C56",
+      "school_name": "Trường Cao Đẳng Bến Tre",
+      "school_alias": "cao-dang-ben-tre"
+    },
+    {
+      "school_id": 11,
+      "school_code": "CCH",
+      "school_name": "Trường Cao Đẳng Công Nghiệp Huế",
+      "school_alias": "cao-dang-cong-nghiep-hue"
+    },
+    {
+      "school_id": 483,
+      "school_code": "CCY",
+      "school_name": "Trường Cao Đẳng Công Nghiệp Hưng Yên",
+      "school_alias": "cao-dang-cong-nghiep-hung-yen"
+    },
+    {
+      "school_id": 14,
+      "school_code": "CCI",
+      "school_name": "Trường Cao Đẳng Công Nghiệp In",
+      "school_alias": "cao-dang-cong-nghiep-in"
+    },
+    {
+      "school_id": 15,
+      "school_code": "CND",
+      "school_name": "Trường Cao Đẳng Công Nghiệp Nam Định",
+      "school_alias": "cao-dang-cong-nghiep-nam-dinh"
+    },
+    {
+      "school_id": 498,
+      "school_code": "QPH",
+      "school_name": "Trường Cao Đẳng Công Nghiệp Quốc Phòng",
+      "school_alias": "cao-dang-cong-nghiep-quoc-phong"
+    },
+    {
+      "school_id": 18,
+      "school_code": "CCB",
+      "school_name": "Trường Cao Đẳng Công Nghiệp Thái Nguyên",
+      "school_alias": "cao-dang-cong-nghiep-thai-nguyen"
+    },
+    {
+      "school_id": 23,
+      "school_code": "CCV",
+      "school_name": "Trường Cao Đẳng Công Nghiệp Việt Đức",
+      "school_alias": "cao-dang-cong-nghiep-viet-duc"
+    },
+    {
+      "school_id": 24,
+      "school_code": "CCX",
+      "school_name": "Trường Cao Đẳng Công Nghiệp và Xây Dựng",
+      "school_alias": "cao-dang-cong-nghiep-va-xay-dung"
+    },
+    {
+      "school_id": 28,
+      "school_code": "CNH",
+      "school_name": "Trường Cao Đẳng Công Nghệ Hà Nội",
+      "school_alias": "cao-dang-cong-nghe-ha-noi"
+    },
+    {
+      "school_id": 1371,
+      "school_code": "CDD0410",
+      "school_name": "Trường Cao Đẳng Công Nghệ Ngoại Thương",
+      "school_alias": "truong-cao-dang-cong-nghe-ngoai-thuong"
+    },
+    {
+      "school_id": 10,
+      "school_code": "CCS",
+      "school_name": "Trường Cao Đẳng Công Nghệ TPHCM",
+      "school_alias": "cao-dang-kinh-te-ky-thuat-vinatex-tphcm"
+    },
+    {
+      "school_id": 33,
+      "school_code": "CCO",
+      "school_name": "Trường Cao Đẳng Công Nghệ Thủ Đức",
+      "school_alias": "cao-dang-cong-nghe-thu-duc"
+    },
+    {
+      "school_id": 496,
+      "school_code": "CBL",
+      "school_name": "Trường Cao Đẳng Công Nghệ Và Kinh Tế Bảo Lộc",
+      "school_alias": "cao-dang-cong-nghe-va-kinh-te-bao-loc"
+    },
+    {
+      "school_id": 36,
+      "school_code": "CXD",
+      "school_name": "Trường Cao Đẳng Công Nghệ và Kinh Tế Công Nghiệp",
+      "school_alias": "cao-dang-cong-nghe-va-kinh-te-cong-nghiep"
+    },
+    {
+      "school_id": 37,
+      "school_code": "CDS",
+      "school_name": "Trường Cao Đẳng Công Nghệ và Quản Trị Sonadezi",
+      "school_alias": "cao-dang-cong-nghe-va-quan-tri-sonadezi"
+    },
+    {
+      "school_id": 3,
+      "school_code": "CBT",
+      "school_name": "Trường Cao Đẳng Công Nghệ và Thương Mại Hà Nội",
+      "school_alias": "cao-dang-cong-nghe-va-thuong-mai-ha-noi"
+    },
+    {
+      "school_id": 21,
+      "school_code": "CCP",
+      "school_name": "Trường Cao Đẳng Công Thương Miền Trung",
+      "school_alias": "cao-dang-cong-nghiep-tuy-hoa"
+    },
+    {
+      "school_id": 38,
+      "school_code": "CES",
+      "school_name": "Trường Cao Đẳng Công Thương TPHCM",
+      "school_alias": "cao-dang-cong-thuong-tphcm"
+    },
+    {
+      "school_id": 106,
+      "school_code": "CEN",
+      "school_name": "Trường Cao Đẳng Cơ Điện Và Nông Nghiệp Nam Bộ",
+      "school_alias": "cao-dang-co-dien-va-nong-nghiep-nam-bo"
+    },
+    {
+      "school_id": 40,
+      "school_code": "C55",
+      "school_name": "Trường Cao Đẳng Cần Thơ",
+      "school_alias": "cao-dang-can-tho"
+    },
+    {
+      "school_id": 43,
+      "school_code": "D61",
+      "school_name": "Trường Cao Đẳng Cộng Đồng Cà Mau",
+      "school_alias": "cao-dang-cong-dong-ca-mau"
+    },
+    {
+      "school_id": 44,
+      "school_code": "CHN",
+      "school_name": "Trường Cao Đẳng Cộng Đồng Hà Nội",
+      "school_alias": "cao-dang-cong-dong-ha-noi"
+    },
+    {
+      "school_id": 45,
+      "school_code": "D20",
+      "school_name": "Trường Cao Đẳng Cộng Đồng Hà Tây",
+      "school_alias": "cao-dang-cong-dong-ha-tay"
+    },
+    {
+      "school_id": 47,
+      "school_code": "D64",
+      "school_name": "Trường Cao Đẳng Cộng Đồng Hậu Giang",
+      "school_alias": "cao-dang-cong-dong-hau-giang"
+    },
+    {
+      "school_id": 489,
+      "school_code": "CLA",
+      "school_name": "Trường Cao Đẳng Cộng Đồng Lào Cai",
+      "school_alias": "cao-dang-cong-dong-lao-cai"
+    },
+    {
+      "school_id": 50,
+      "school_code": "CST",
+      "school_name": "Trường Cao Đẳng Cộng Đồng Sóc Trăng",
+      "school_alias": "cao-dang-cong-dong-soc-trang"
+    },
+    {
+      "school_id": 52,
+      "school_code": "D50",
+      "school_name": "Trường Cao Đẳng Cộng Đồng Đồng Tháp",
+      "school_alias": "cao-dang-cong-dong-dong-thap"
+    },
+    {
+      "school_id": 53,
+      "school_code": "CDH",
+      "school_name": "Trường Cao Đẳng Du Lịch Hà Nội",
+      "school_alias": "cao-dang-du-lich-ha-noi"
+    },
+    {
+      "school_id": 93,
+      "school_code": "CDT2108",
+      "school_name": "Trường Cao Đẳng Du Lịch và Công Thương",
+      "school_alias": "cao-dang-du-lich-va-cong-thuong"
+    },
+    {
+      "school_id": 57,
+      "school_code": "CYS",
+      "school_name": "Trường Cao Đẳng Dược Trung Ương",
+      "school_alias": "cao-dang-duoc-trung-uong"
+    },
+    {
+      "school_id": 60,
+      "school_code": "CGD",
+      "school_name": "Trường Cao Đẳng Giao Thông Vận Tải II",
+      "school_alias": "cao-dang-giao-thong-van-tai-ii"
+    },
+    {
+      "school_id": 62,
+      "school_code": "CGT",
+      "school_name": "Trường Cao Đẳng Giao Thông Vận Tải TPHCM",
+      "school_alias": "cao-dang-giao-thong-van-tai-tphcm"
+    },
+    {
+      "school_id": 59,
+      "school_code": "CGS",
+      "school_name": "Trường Cao Đẳng Giao Thông Vận Tải Trung Ương III",
+      "school_alias": "cao-dang-giao-thong-van-tai-3"
+    },
+    {
+      "school_id": 64,
+      "school_code": "CHH",
+      "school_name": "Trường Cao Đẳng Hàng Hải I",
+      "school_alias": "cao-dang-hang-hai-i"
+    },
+    {
+      "school_id": 74,
+      "school_code": "CCK",
+      "school_name": "Trường Cao Đẳng Kinh Tế Công Nghiệp Hà Nội",
+      "school_alias": "cao-dang-kinh-te-cong-nghiep-ha-noi"
+    },
+    {
+      "school_id": 79,
+      "school_code": "CPL",
+      "school_name": "Trường Cao Đẳng Kinh Tế Kỹ Thuật TP HCM",
+      "school_alias": "cao-dang-kinh-te-ky-thuat-tp-hcm"
+    },
+    {
+      "school_id": 82,
+      "school_code": "CDB",
+      "school_name": "Trường Cao Đẳng Kinh Tế Kỹ Thuật Điện Biên",
+      "school_alias": "cao-dang-kinh-te-ky-thuat-dien-bien"
+    },
+    {
+      "school_id": 83,
+      "school_code": "CDD0212",
+      "school_name": "Trường Cao Đẳng Kinh Tế TPHCM",
+      "school_alias": "cao-dang-kinh-te-tphcm"
+    },
+    {
+      "school_id": 84,
+      "school_code": "CDT0209",
+      "school_name": "Trường Cao Đẳng Kinh Tế Đối Ngoại",
+      "school_alias": "cao-dang-kinh-te-doi-ngoai"
+    },
+    {
+      "school_id": 65,
+      "school_code": "CDT0407",
+      "school_name": "Trường Cao Đẳng Kinh Tế – Kế Hoạch Đà Nẵng",
+      "school_alias": "cao-dang-kinh-te-ke-hoach-da-nang"
+    },
+    {
+      "school_id": 67,
+      "school_code": "CEC",
+      "school_name": "Trường Cao Đẳng Kinh Tế – Kỹ Thuật Cần Thơ",
+      "school_alias": "cao-dang-kinh-te-ky-thuat-can-tho"
+    },
+    {
+      "school_id": 71,
+      "school_code": "CTH",
+      "school_name": "Trường Cao Đẳng Kinh Tế – Kỹ Thuật Thương Mại",
+      "school_alias": "cao-dang-kinh-te-ky-thuat-thuong-mai"
+    },
+    {
+      "school_id": 161,
+      "school_code": "CSB",
+      "school_name": "Trường Cao Đẳng Kinh Tế, Kỹ Thuật Và Thủy Sản",
+      "school_alias": "cao-dang-thuy-san"
+    },
+    {
+      "school_id": 86,
+      "school_code": "CET",
+      "school_name": "Trường Cao Đẳng Kinh Tế-Công Nghệ TPHCM",
+      "school_alias": "cao-dang-kinh-te-cong-nghe-tphcm"
+    },
+    {
+      "school_id": 89,
+      "school_code": "CKC",
+      "school_name": "Trường Cao Đẳng Kỹ Thuật Cao Thắng",
+      "school_alias": "cao-dang-ky-thuat-cao-thang"
+    },
+    {
+      "school_id": 466,
+      "school_code": "CCE",
+      "school_name": "Trường Cao Đẳng Kỹ Thuật Công Nghiệp",
+      "school_alias": "cao-dang-ky-thuat-cong-nghiep"
+    },
+    {
+      "school_id": 49,
+      "school_code": "CLC",
+      "school_name": "Trường Cao Đẳng Lai Châu",
+      "school_alias": "cao-dang-cong-dong-lai-chau"
+    },
+    {
+      "school_id": 94,
+      "school_code": "CKP",
+      "school_name": "Trường Cao Đẳng Lý Tự Trọng TPHCM",
+      "school_alias": "cao-dang-ky-thuat-ly-tu-trong-tphcm"
+    },
+    {
+      "school_id": 97,
+      "school_code": "CLT",
+      "school_name": "Trường Cao Đẳng Lương Thực Thực Phẩm",
+      "school_alias": "cao-dang-luong-thuc-thuc-pham"
+    },
+    {
+      "school_id": 135,
+      "school_code": "C10",
+      "school_name": "Trường Cao Đẳng Lạng Sơn",
+      "school_alias": "cao-dang-su-pham-lang-son"
+    },
+    {
+      "school_id": 77,
+      "school_code": "CKM",
+      "school_name": "Trường Cao Đẳng Miền Nam",
+      "school_alias": "cao-dang-kinh-te-ky-thuat-mien-nam"
+    },
+    {
+      "school_id": 100,
+      "school_code": "CDN",
+      "school_name": "Trường Cao Đẳng Mỹ Thuật Trang Trí Đồng Nai",
+      "school_alias": "cao-dang-my-thuat-trang-tri-dong-nai"
+    },
+    {
+      "school_id": 101,
+      "school_code": "CNT",
+      "school_name": "Trường Cao Đẳng Nghệ Thuật Hà Nội",
+      "school_alias": "cao-dang-nghe-thuat-ha-noi"
+    },
+    {
+      "school_id": 102,
+      "school_code": "CNC",
+      "school_name": "Trường Cao Đẳng Ngoại Ngữ – Công Nghệ Việt Nhật",
+      "school_alias": "cao-dang-ngoai-ngu-cong-nghe-viet-nhat"
+    },
+    {
+      "school_id": 105,
+      "school_code": "CDP",
+      "school_name": "Trường Cao Đẳng Nông Lâm Đông Bắc",
+      "school_alias": "cao-dang-nong-lam-dong-bac"
+    },
+    {
+      "school_id": 508,
+      "school_code": "CNN",
+      "school_name": "Trường Cao Đẳng Nông Nghiệp Nam Bộ",
+      "school_alias": "cao-dang-nong-nghiep-nam-bo"
+    },
+    {
+      "school_id": 109,
+      "school_code": "CPT",
+      "school_name": "Trường Cao Đẳng Phát Thanh Truyền Hình I",
+      "school_alias": "cao-dang-phat-thanh-truyen-hinh-i"
+    },
+    {
+      "school_id": 110,
+      "school_code": "CPS",
+      "school_name": "Trường Cao Đẳng Phát Thanh Truyền Hình II",
+      "school_alias": "cao-dang-phat-thanh-truyen-hinh-ii"
+    },
+    {
+      "school_id": 111,
+      "school_code": "CPN",
+      "school_name": "Trường Cao Đẳng Phương Đông – Đà Nẵng",
+      "school_alias": "cao-dang-phuong-dong-da-nang"
+    },
+    {
+      "school_id": 1336,
+      "school_code": "CDD0209",
+      "school_name": "Trường Cao Đẳng Sài Gòn",
+      "school_alias": "truong-cao-dang-sai-gon"
+    },
+    {
+      "school_id": 144,
+      "school_code": "C14",
+      "school_name": "Trường Cao Đẳng Sơn La",
+      "school_alias": "cao-dang-son-la"
+    },
+    {
+      "school_id": 114,
+      "school_code": "C52",
+      "school_name": "Trường Cao Đẳng Sư Phạm Bà Rịa – Vũng Tàu",
+      "school_alias": "cao-dang-su-pham-ba-ria-vung-tau"
+    },
+    {
+      "school_id": 119,
+      "school_code": "C19",
+      "school_name": "Trường Cao Đẳng Sư Phạm Bắc Ninh",
+      "school_alias": "cao-dang-su-pham-bac-ninh"
+    },
+    {
+      "school_id": 123,
+      "school_code": "C23",
+      "school_name": "Trường Cao Đẳng Sư Phạm Hòa Bình",
+      "school_alias": "cao-dang-su-pham-hoa-binh"
+    },
+    {
+      "school_id": 130,
+      "school_code": "C54",
+      "school_name": "Trường Cao Đẳng Sư Phạm Kiên Giang",
+      "school_alias": "cao-dang-su-pham-kien-giang"
+    },
+    {
+      "school_id": 136,
+      "school_code": "C25",
+      "school_name": "Trường Cao Đẳng Sư Phạm Nam Định",
+      "school_alias": "cao-dang-su-pham-nam-dinh"
+    },
+    {
+      "school_id": 142,
+      "school_code": "C32",
+      "school_name": "Trường Cao Đẳng Sư Phạm Quảng Trị",
+      "school_alias": "cao-dang-su-pham-quang-tri"
+    },
+    {
+      "school_id": 143,
+      "school_code": "C59",
+      "school_name": "Trường Cao Đẳng Sư Phạm Sóc Trăng",
+      "school_alias": "cao-dang-su-pham-soc-trang"
+    },
+    {
+      "school_id": 152,
+      "school_code": "CM2",
+      "school_name": "Trường Cao Đẳng Sư Phạm TW Nha Trang",
+      "school_alias": "cao-dang-su-pham-tw-nha-trang"
+    },
+    {
+      "school_id": 145,
+      "school_code": "C26",
+      "school_name": "Trường Cao Đẳng Sư Phạm Thái Bình",
+      "school_alias": "cao-dang-su-pham-thai-binh"
+    },
+    {
+      "school_id": 148,
+      "school_code": "CM1",
+      "school_name": "Trường Cao Đẳng Sư Phạm Trung Ương",
+      "school_alias": "cao-dang-su-pham-trung-uong"
+    },
+    {
+      "school_id": 149,
+      "school_code": "CM3",
+      "school_name": "Trường Cao Đẳng Sư Phạm Trung Ương TPHCM",
+      "school_alias": "cao-dang-su-pham-trung-uong-tphcm"
+    },
+    {
+      "school_id": 153,
+      "school_code": "C46",
+      "school_name": "Trường Cao Đẳng Sư Phạm Tây Ninh",
+      "school_alias": "cao-dang-su-pham-tay-ninh"
+    },
+    {
+      "school_id": 154,
+      "school_code": "C57",
+      "school_name": "Trường Cao Đẳng Sư Phạm Vĩnh Long",
+      "school_alias": "cao-dang-su-pham-vinh-long"
+    },
+    {
+      "school_id": 157,
+      "school_code": "C62",
+      "school_name": "Trường Cao Đẳng Sư Phạm Điện Biên",
+      "school_alias": "cao-dang-su-pham-dien-bien"
+    },
+    {
+      "school_id": 159,
+      "school_code": "C40",
+      "school_name": "Trường Cao Đẳng Sư Phạm Đăk Lăk",
+      "school_alias": "cao-dang-su-pham-dak-lak"
+    },
+    {
+      "school_id": 162,
+      "school_code": "CMS",
+      "school_name": "Trường Cao Đẳng Thương Mại",
+      "school_alias": "cao-dang-thuong-mai"
+    },
+    {
+      "school_id": 517,
+      "school_code": "CDD0130",
+      "school_name": "Trường Cao Đẳng Thương Mại Và Du Lịch Hà Nội",
+      "school_alias": "cao-dang-thuong-mai-va-du-lich-ha-noi"
+    },
+    {
+      "school_id": 165,
+      "school_code": "CTE",
+      "school_name": "Trường Cao Đẳng Thống Kê",
+      "school_alias": "cao-dang-thong-ke"
+    },
+    {
+      "school_id": 167,
+      "school_code": "CDT0131",
+      "school_name": "Trường Cao Đẳng Truyền Hình Việt Nam",
+      "school_alias": "cao-dang-truyen-hinh"
+    },
+    {
+      "school_id": 175,
+      "school_code": "CDV",
+      "school_name": "Trường Cao Đẳng Viễn Đông",
+      "school_alias": "cao-dang-vien-dong"
+    },
+    {
+      "school_id": 68,
+      "school_code": "CKN",
+      "school_name": "Trường Cao Đẳng Việt Mỹ",
+      "school_alias": "cao-dang-kinh-te-ky-thuat-ha-noi"
+    },
+    {
+      "school_id": 176,
+      "school_code": "CVY",
+      "school_name": "Trường Cao Đẳng Văn Hóa Nghệ Thuật Du Lịch Yên Bái",
+      "school_alias": "cao-dang-van-hoa-nghe-thuat-du-lich-yen-bai"
+    },
+    {
+      "school_id": 177,
+      "school_code": "CVV",
+      "school_name": "Trường Cao Đẳng Văn Hóa Nghệ Thuật Nghệ An",
+      "school_alias": "cao-dang-van-hoa-nghe-thuat-nghe-an"
+    },
+    {
+      "school_id": 180,
+      "school_code": "CVN",
+      "school_name": "Trường Cao Đẳng Văn Hóa Nghệ Thuật TPHCM",
+      "school_alias": "cao-dang-van-hoa-nghe-thuat-tphcm"
+    },
+    {
+      "school_id": 179,
+      "school_code": "CNB",
+      "school_name": "Trường Cao Đẳng Văn Hóa Nghệ Thuật Thái Bình",
+      "school_alias": "cao-dang-van-hoa-nghe-thuat-thai-binh"
+    },
+    {
+      "school_id": 181,
+      "school_code": "CVB",
+      "school_name": "Trường Cao Đẳng Văn Hóa Nghệ Thuật Tây Bắc",
+      "school_alias": "cao-dang-van-hoa-nghe-thuat-tay-bac"
+    },
+    {
+      "school_id": 182,
+      "school_code": "CNV",
+      "school_name": "Trường Cao Đẳng Văn Hóa Nghệ Thuật Việt Bắc",
+      "school_alias": "cao-dang-van-hoa-nghe-thuat-viet-bac"
+    },
+    {
+      "school_id": 185,
+      "school_code": "CVS",
+      "school_name": "Trường Cao Đẳng Văn Hóa Nghệ Thuật và Du Lịch Sài Gòn",
+      "school_alias": "cao-dang-van-hoa-nghe-thuat-va-du-lich-sai-gon"
+    },
+    {
+      "school_id": 186,
+      "school_code": "CVL",
+      "school_name": "Trường Cao Đẳng Văn Hóa Nghệ Thuật Đăk Lăk",
+      "school_alias": "cao-dang-van-hoa-nghe-thuat-dak-lak"
+    },
+    {
+      "school_id": 51,
+      "school_code": "D57",
+      "school_name": "Trường Cao Đẳng Vĩnh Long",
+      "school_alias": "cao-dang-cong-dong-vinh-long"
+    },
+    {
+      "school_id": 187,
+      "school_code": "CDT",
+      "school_name": "Trường Cao Đẳng Xây Dựng Công Trình Đô Thị",
+      "school_alias": "cao-dang-xay-dung-cong-trinh-do-thi"
+    },
+    {
+      "school_id": 190,
+      "school_code": "CXH",
+      "school_name": "Trường Cao Đẳng Xây Dựng Số 1",
+      "school_alias": "cao-dang-xay-dung-so-1"
+    },
+    {
+      "school_id": 191,
+      "school_code": "CDT0213",
+      "school_name": "Trường Cao Đẳng Xây Dựng TPHCM",
+      "school_alias": "cao-dang-xay-dung-so-2"
+    },
+    {
+      "school_id": 193,
+      "school_code": "CBY",
+      "school_name": "Trường Cao Đẳng Y Tế Bình Dương",
+      "school_alias": "cao-dang-y-te-binh-duong"
+    },
+    {
+      "school_id": 195,
+      "school_code": "CYR",
+      "school_name": "Trường Cao Đẳng Y Tế Bình Định",
+      "school_alias": "cao-dang-y-te-binh-dinh"
+    },
+    {
+      "school_id": 196,
+      "school_code": "CYB",
+      "school_name": "Trường Cao Đẳng Y Tế Bạc Liêu",
+      "school_alias": "cao-dang-y-te-bac-lieu"
+    },
+    {
+      "school_id": 561,
+      "school_code": "CBM",
+      "school_name": "Trường Cao Đẳng Y Tế Bạch Mai",
+      "school_alias": "cao-dang-y-te-bach-mai"
+    },
+    {
+      "school_id": 197,
+      "school_code": "CMY",
+      "school_name": "Trường Cao Đẳng Y Tế Cà Mau",
+      "school_alias": "cao-dang-y-te-ca-mau"
+    },
+    {
+      "school_id": 198,
+      "school_code": "CYC",
+      "school_name": "Trường Cao Đẳng Y Tế Cần Thơ",
+      "school_alias": "cao-dang-y-te-can-tho"
+    },
+    {
+      "school_id": 199,
+      "school_code": "CYY",
+      "school_name": "Trường Cao Đẳng Y Tế Huế",
+      "school_alias": "cao-dang-y-te-hue"
+    },
+    {
+      "school_id": 200,
+      "school_code": "CYH",
+      "school_name": "Trường Cao Đẳng Y Tế Hà Nam",
+      "school_alias": "cao-dang-y-te-ha-nam"
+    },
+    {
+      "school_id": 201,
+      "school_code": "CYZ",
+      "school_name": "Trường Cao Đẳng Y Tế Hà Nội",
+      "school_alias": "cao-dang-y-te-ha-noi"
+    },
+    {
+      "school_id": 202,
+      "school_code": "CYN",
+      "school_name": "Trường Cao Đẳng Y Tế Hà Tĩnh",
+      "school_alias": "cao-dang-y-te-ha-tinh"
+    },
+    {
+      "school_id": 515,
+      "school_code": "CYM",
+      "school_name": "Trường Cao Đẳng Y Tế Hà Đông",
+      "school_alias": "cao-dang-y-te-ha-dong"
+    },
+    {
+      "school_id": 203,
+      "school_code": "CYF",
+      "school_name": "Trường Cao Đẳng Y Tế Hải Phòng",
+      "school_alias": "cao-dang-y-te-hai-phong"
+    },
+    {
+      "school_id": 204,
+      "school_code": "CYK",
+      "school_name": "Trường Cao Đẳng Y Tế Khánh Hòa",
+      "school_alias": "cao-dang-y-te-khanh-hoa"
+    },
+    {
+      "school_id": 205,
+      "school_code": "CYG",
+      "school_name": "Trường Cao Đẳng Y Tế Kiên Giang",
+      "school_alias": "cao-dang-y-te-kien-giang"
+    },
+    {
+      "school_id": 497,
+      "school_code": "CLY",
+      "school_name": "Trường Cao Đẳng Y Tế Lâm Đồng",
+      "school_alias": "cao-dang-y-te-lam-dong"
+    },
+    {
+      "school_id": 206,
+      "school_code": "CYL",
+      "school_name": "Trường Cao Đẳng Y Tế Lạng Sơn",
+      "school_alias": "cao-dang-y-te-lang-son"
+    },
+    {
+      "school_id": 514,
+      "school_code": "CNY",
+      "school_name": "Trường Cao Đẳng Y Tế Ninh Bình",
+      "school_alias": "cao-dang-y-te-ninh-binh"
+    },
+    {
+      "school_id": 208,
+      "school_code": "CYP",
+      "school_name": "Trường Cao Đẳng Y Tế Phú Thọ",
+      "school_alias": "cao-dang-y-te-phu-tho"
+    },
+    {
+      "school_id": 209,
+      "school_code": "CYU",
+      "school_name": "Trường Cao Đẳng Y Tế Quảng Nam",
+      "school_alias": "cao-dang-y-te-quang-nam"
+    },
+    {
+      "school_id": 513,
+      "school_code": "YSL",
+      "school_name": "Trường Cao Đẳng Y Tế Sơn La",
+      "school_alias": "cao-dang-y-te-son-la"
+    },
+    {
+      "school_id": 211,
+      "school_code": "CYT",
+      "school_name": "Trường Cao Đẳng Y Tế Thanh Hóa",
+      "school_alias": "cao-dang-y-te-thanh-hoa"
+    },
+    {
+      "school_id": 212,
+      "school_code": "CYE",
+      "school_name": "Trường Cao Đẳng Y Tế Thái Bình",
+      "school_alias": "cao-dang-y-te-thai-binh"
+    },
+    {
+      "school_id": 214,
+      "school_code": "CYV",
+      "school_name": "Trường Cao Đẳng Y Tế Tiền Giang",
+      "school_alias": "cao-dang-y-te-tien-giang"
+    },
+    {
+      "school_id": 215,
+      "school_code": "YTV",
+      "school_name": "Trường Cao Đẳng Y Tế Trà Vinh",
+      "school_alias": "cao-dang-y-te-tra-vinh"
+    },
+    {
+      "school_id": 216,
+      "school_code": "CYD",
+      "school_name": "Trường Cao Đẳng Y Tế Đồng Nai",
+      "school_alias": "cao-dang-y-te-dong-nai"
+    },
+    {
+      "school_id": 207,
+      "school_code": "CYA",
+      "school_name": "Trường Cao Đẳng Y Tế Đồng Tháp",
+      "school_alias": "cao-dang-y-te-dong-thap"
+    },
+    {
+      "school_id": 217,
+      "school_code": "CLD",
+      "school_name": "Trường Cao Đẳng Điện Lực Miền Trung",
+      "school_alias": "cao-dang-dien-luc-mien-trung"
+    },
+    {
+      "school_id": 218,
+      "school_code": "CDT0211",
+      "school_name": "Trường Cao Đẳng Điện Lực TPHCM",
+      "school_alias": "cao-dang-dien-luc-tphcm"
+    },
+    {
+      "school_id": 219,
+      "school_code": "CLH",
+      "school_name": "Trường Cao Đẳng Điện Tử - Điện Lạnh Hà Nội",
+      "school_alias": "cao-dang-dien-tu-dien-lanh-ha-noi"
+    },
+    {
+      "school_id": 567,
+      "school_code": "CSG",
+      "school_name": "Trường Cao Đẳng Đại Việt Sài Gòn",
+      "school_alias": "cao-dang-dai-viet-sai-gon"
+    },
+    {
+      "school_id": 1366,
+      "school_code": "C0208",
+      "school_name": "Trường Cao đẳng An ninh mạng iSPACE",
+      "school_alias": "truong-cao-dang-an-ninh-mang-ispace"
+    },
+    {
+      "school_id": 1547,
+      "school_code": "D70",
+      "school_name": "Trường Cao đẳng Bách Khoa",
+      "school_alias": "truong-cao-dang-bach-khoa-viet-nam"
+    },
+    {
+      "school_id": 1541,
+      "school_code": "BKC",
+      "school_name": "Trường Cao đẳng Bách Khoa Sài Gòn",
+      "school_alias": "truong-cao-dang-bach-khoa-sai-gon"
+    },
+    {
+      "school_id": 1337,
+      "school_code": "CDD0229",
+      "school_name": "Trường Cao đẳng Bách khoa Nam Sài Gòn",
+      "school_alias": "truong-cao-dang-bach-khoa-nam-sai-gon"
+    },
+    {
+      "school_id": 1535,
+      "school_code": "C111",
+      "school_name": "Trường Cao đẳng Bắc Kạn",
+      "school_alias": "truong-cao-dang-bac-kan"
+    },
+    {
+      "school_id": 534,
+      "school_code": "CDC",
+      "school_name": "Trường Cao đẳng Công Nghệ Thông Tin TPHCM",
+      "school_alias": "cao-dang-cong-nghe-thong-tin-tphcm"
+    },
+    {
+      "school_id": 1498,
+      "school_code": "CDD0408",
+      "school_name": "Trường Cao đẳng Công Nghệ Y- Dược Việt Nam",
+      "school_alias": "truong-cao-dang-cong-nghe-y-duoc-viet-nam"
+    },
+    {
+      "school_id": 1433,
+      "school_code": "CDT1502",
+      "school_name": "Trường Cao đẳng Công Thương Phú Thọ",
+      "school_alias": "truong-cao-dang-nghe-cong-nghe-giay-va-co-dien"
+    },
+    {
+      "school_id": 1536,
+      "school_code": "CCD1902",
+      "school_name": "Trường Cao đẳng Công nghiệp Bắc Ninh",
+      "school_alias": "truong-cao-dang-cong-nghiep-bac-ninh"
+    },
+    {
+      "school_id": 1444,
+      "school_code": "CDT1601",
+      "school_name": "Trường Cao đẳng Công nghiệp và Thương mại",
+      "school_alias": "truong-cao-dang-cong-nghiep-va-thuong-mai"
+    },
+    {
+      "school_id": 1531,
+      "school_code": "CDD0308",
+      "school_name": "Trường Cao đẳng Công nghệ Bách khoa Hà Nội",
+      "school_alias": "truong-cao-dang-cong-nghe-bach-khoa-ha-noi"
+    },
+    {
+      "school_id": 1513,
+      "school_code": "CDT4801",
+      "school_name": "Trường Cao đẳng Công nghệ Quốc tế LILAMA-2",
+      "school_alias": "truong-cao-dang-cong-nghe-quoc-te-lilama-2"
+    },
+    {
+      "school_id": 1538,
+      "school_code": "CDT4403",
+      "school_name": "Trường Cao đẳng Công nghệ và Nông lâm Nam Bộ",
+      "school_alias": "truong-cao-dang-cong-nghe-va-nong-lam-nam-bo"
+    },
+    {
+      "school_id": 1483,
+      "school_code": "CDT3401",
+      "school_name": "Trường Cao đẳng Công nghệ – Kinh tế và Thủy lợi miền Trung",
+      "school_alias": "truong-cao-dang-cong-nghe-–-kinh-te-va-thuy-loi-mien-trung"
+    },
+    {
+      "school_id": 1528,
+      "school_code": "D76",
+      "school_name": "Trường Cao đẳng Công thương Hà Nội",
+      "school_alias": "truong-cao-dang-cong-thuong-ha-noi"
+    },
+    {
+      "school_id": 1497,
+      "school_code": "CDD1204",
+      "school_name": "Trường Cao đẳng Công thương Việt Nam",
+      "school_alias": "truong-cao-dang-nghe-cong-thuong-viet-nam"
+    },
+    {
+      "school_id": 1411,
+      "school_code": "CDT2103",
+      "school_name": "Trường Cao đẳng Cơ giới Xây dựng",
+      "school_alias": "truong-cao-dang-co-gioi-xay-dung"
+    },
+    {
+      "school_id": 1401,
+      "school_code": "CDT1901",
+      "school_name": "Trường Cao đẳng Cơ điện và Xây dựng Bắc Ninh",
+      "school_alias": "truong-cao-dang-co-dien-va-xay-dung-bac-ninh"
+    },
+    {
+      "school_id": 1464,
+      "school_code": "CDT3701",
+      "school_name": "Trường Cao đẳng Cơ điện – Xây dựng và Nông lâm Trung Bộ",
+      "school_alias": "truong-cao-dang-co-dien-–-xay-dung-va-nong-lam-trung-bo"
+    },
+    {
+      "school_id": 1470,
+      "school_code": "CDD6301",
+      "school_name": "Trường Cao đẳng Cộng đồng Đắk Nông",
+      "school_alias": "truong-cao-dang-cong-dong-dak-nong"
+    },
+    {
+      "school_id": 1454,
+      "school_code": "CDT3301",
+      "school_name": "Trường Cao đẳng Du lịch Huế",
+      "school_alias": "truong-cao-dang-du-lich-hue"
+    },
+    {
+      "school_id": 1419,
+      "school_code": "CDT0308",
+      "school_name": "Trường Cao đẳng Du lịch Hải Phòng",
+      "school_alias": "truong-cao-dang-nghe-du-lich-va-dich-vu-hai-phong"
+    },
+    {
+      "school_id": 1472,
+      "school_code": "CDT4103",
+      "school_name": "Trường Cao đẳng Du lịch Nha Trang",
+      "school_alias": "truong-cao-dang-du-lich-nha-trang"
+    },
+    {
+      "school_id": 1524,
+      "school_code": "D42",
+      "school_name": "Trường Cao đẳng Du lịch Sài Gòn",
+      "school_alias": "truong-cao-dang-du-lich-sai-gon"
+    },
+    {
+      "school_id": 1502,
+      "school_code": "CDT5202",
+      "school_name": "Trường Cao đẳng Du lịch Vũng Tàu",
+      "school_alias": "truong-cao-dang-du-lich-vung-tau"
+    },
+    {
+      "school_id": 1460,
+      "school_code": "CDT0404",
+      "school_name": "Trường Cao đẳng Du lịch Đà Nẵng",
+      "school_alias": "truong-cao-dang-du-lich-da-nang"
+    },
+    {
+      "school_id": 1381,
+      "school_code": "CDD1904",
+      "school_name": "Trường Cao đẳng Dược Hà Nội",
+      "school_alias": "truong-cao-dang-duoc-ha-noi"
+    },
+    {
+      "school_id": 1501,
+      "school_code": "CDT5201",
+      "school_name": "Trường Cao đẳng Dầu khí",
+      "school_alias": "truong-cao-dang-dau-khi"
+    },
+    {
+      "school_id": 1384,
+      "school_code": "CDT0113",
+      "school_name": "Trường Cao đẳng Giao thông vận tải Trung ương I",
+      "school_alias": "truong-cao-dang-giao-thong-van-tai-trung-uong-i"
+    },
+    {
+      "school_id": 1477,
+      "school_code": "CDT2901",
+      "school_name": "Trường Cao đẳng Giao thông vận tải Trung ương IV",
+      "school_alias": "truong-cao-dang-giao-thong-van-tai-trung-uong-iv"
+    },
+    {
+      "school_id": 1455,
+      "school_code": "CDT0402",
+      "school_name": "Trường Cao đẳng Giao thông vận tải Trung ương V",
+      "school_alias": "truong-cao-dang-giao-thong-van-tai-trung-uong-v"
+    },
+    {
+      "school_id": 1394,
+      "school_code": "CDT0302",
+      "school_name": "Trường Cao đẳng Giao thông vận tải trung ương II",
+      "school_alias": "truong-cao-dang-nghe-giao-thong-van-tai-trung-uong-ii"
+    },
+    {
+      "school_id": 1363,
+      "school_code": "CDT026",
+      "school_name": "Trường Cao đẳng Giao thông vận tải trung ương VI",
+      "school_alias": "truong-cao-dang-giao-thong-van-tai-trung-uong-vi"
+    },
+    {
+      "school_id": 1412,
+      "school_code": "CDT2104",
+      "school_name": "Trường Cao đẳng Hàng hải và Đường thủy I",
+      "school_alias": "truong-cao-dang-nghe-giao-thong-van-tai-duong-thuy-i"
+    },
+    {
+      "school_id": 1542,
+      "school_code": "CDT0207",
+      "school_name": "Trường Cao đẳng Hàng hải và Đường thủy II",
+      "school_alias": "truong-cao-dang-hang-hai-va-duong-thuy-ii"
+    },
+    {
+      "school_id": 1514,
+      "school_code": "CDD4808",
+      "school_name": "Trường Cao đẳng Hòa Bình Xuân Lộc",
+      "school_alias": "truong-cao-dang-hoa-binh-xuan-loc"
+    },
+    {
+      "school_id": 1452,
+      "school_code": "HFH1",
+      "school_name": "Trường Cao đẳng Hậu cần 1",
+      "school_alias": "truong-cao-dang-hau-can-1"
+    },
+    {
+      "school_id": 1453,
+      "school_code": "HFH2",
+      "school_name": "Trường Cao đẳng Hậu cần 2",
+      "school_alias": "truong-cao-dang-hau-can-2"
+    },
+    {
+      "school_id": 1530,
+      "school_code": "CDD0121",
+      "school_name": "Trường Cao đẳng Kinh tế Công nghệ Hà Nội",
+      "school_alias": "truong-cao-dang-kinh-te-cong-nghe-ha-noi"
+    },
+    {
+      "school_id": 1415,
+      "school_code": "CDT0307",
+      "school_name": "Trường Cao đẳng Kinh tế và Công nghệ thực phẩm",
+      "school_alias": "truong-cao-dang-kinh-te-va-cong-nghe-thuc-pham"
+    },
+    {
+      "school_id": 1505,
+      "school_code": "CDD6002",
+      "school_name": "Trường Cao đẳng Kinh tế – Kỹ thuật Bạc Liêu",
+      "school_alias": "truong-cao-dang-kinh-te-–-ky-thuat-bac-lieu"
+    },
+    {
+      "school_id": 1475,
+      "school_code": "CDD4202",
+      "school_name": "Trường Cao đẳng Kinh tế – Kỹ thuật Lâm Đồng",
+      "school_alias": "truong-cao-dang-kinh-te-–-ky-thuat-lam-dong"
+    },
+    {
+      "school_id": 1519,
+      "school_code": "CDG",
+      "school_name": "Trường Cao đẳng Kiên Giang",
+      "school_alias": "truong-cao-dang-kien-giang"
+    },
+    {
+      "school_id": 1543,
+      "school_code": "C94",
+      "school_name": "Trường Cao đẳng Kiến trúc - Xây dựng TPHCM",
+      "school_alias": "truong-cao-dang-kien-truc-xay-dung-tphcm"
+    },
+    {
+      "school_id": 1474,
+      "school_code": "CDD3601",
+      "school_name": "Trường Cao đẳng Kon Tum",
+      "school_alias": "truong-cao-dang-cong-dong-kon-tum"
+    },
+    {
+      "school_id": 1372,
+      "school_code": "CDD0234",
+      "school_name": "Trường Cao đẳng Kỹ Thuật - Du Lịch Sài Gòn ",
+      "school_alias": "truong-cao-dang-ky-thuat-du-lich-sai-gon"
+    },
+    {
+      "school_id": 1488,
+      "school_code": "CDT3501",
+      "school_name": "Trường Cao đẳng Kỹ nghệ Dung Quất",
+      "school_alias": "truong-cao-dang-ky-nghe-dung-quat"
+    },
+    {
+      "school_id": 1364,
+      "school_code": "CT0202",
+      "school_name": "Trường Cao đẳng Kỹ nghệ II",
+      "school_alias": "truong-cao-dang-ky-nghe-ii"
+    },
+    {
+      "school_id": 1503,
+      "school_code": "CDD5203",
+      "school_name": "Trường Cao đẳng Kỹ thuật Công nghệ Bà Rịa – Vũng Tàu",
+      "school_alias": "truong-cao-dang-ky-thuat-cong-nghe-ba-ria-–-vung-tau"
+    },
+    {
+      "school_id": 1533,
+      "school_code": "CDD2303",
+      "school_name": "Trường Cao đẳng Kỹ thuật Công nghệ Hòa Bình",
+      "school_alias": "truong-cao-dang-ky-thuat-cong-nghe-hoa-binh"
+    },
+    {
+      "school_id": 1473,
+      "school_code": "CDD4101",
+      "school_name": "Trường Cao đẳng Kỹ thuật Công nghệ Nha Trang",
+      "school_alias": "truong-cao-dang-ky-thuat-cong-nghe-nha-trang"
+    },
+    {
+      "school_id": 1465,
+      "school_code": "CDD3702",
+      "school_name": "Trường Cao đẳng Kỹ thuật Công nghệ Quy Nhơn",
+      "school_alias": "truong-cao-dang-ky-thuat-cong-nghe-quy-nhon"
+    },
+    {
+      "school_id": 1482,
+      "school_code": "CDD3102",
+      "school_name": "Trường Cao đẳng Kỹ thuật Công – Nông nghiệp Quảng Bình",
+      "school_alias": "truong-cao-dang-ky-thuat-cong-–-nong-nghiep-quang-binh"
+    },
+    {
+      "school_id": 1365,
+      "school_code": "CDD0211",
+      "school_name": "Trường Cao đẳng Kỹ thuật Nguyễn Trường Tộ",
+      "school_alias": "truong-cao-dang-ky-thuat-nguyen-truong-to"
+    },
+    {
+      "school_id": 1439,
+      "school_code": "CDD1401",
+      "school_name": "Trường Cao đẳng Kỹ thuật công nghệ Sơn La",
+      "school_alias": "truong-cao-dang-ky-thuat-cong-nghe-son-la"
+    },
+    {
+      "school_id": 1407,
+      "school_code": "CDD0501",
+      "school_name": "Trường Cao đẳng Kỹ thuật và Công nghệ tỉnh Hà Giang",
+      "school_alias": "truong-cao-dang-ky-thuat-va-cong-nghe-tinh-ha-giang"
+    },
+    {
+      "school_id": 1469,
+      "school_code": "CDD4002",
+      "school_name": "Trường Cao đẳng Kỹ thuật Đắk Lắk",
+      "school_alias": "truong-cao-dang-ky-thuat-dak-lak"
+    },
+    {
+      "school_id": 1515,
+      "school_code": "CDD4803",
+      "school_name": "Trường Cao đẳng Kỹ thuật Đồng Nai",
+      "school_alias": "truong-cao-dang-ky-thuat-dong-nai"
+    },
+    {
+      "school_id": 1499,
+      "school_code": "CDD0801",
+      "school_name": "Trường Cao đẳng Lào Cai",
+      "school_alias": "truong-cao-dang-lao-cai"
+    },
+    {
+      "school_id": 1540,
+      "school_code": "CDD4806",
+      "school_name": "Trường Cao đẳng Lê Quý Đôn",
+      "school_alias": "truong-cao-dang-le-quy-don"
+    },
+    {
+      "school_id": 1449,
+      "school_code": "CDD1910",
+      "school_name": "Trường Cao đẳng Lý Thái Tổ",
+      "school_alias": "truong-cao-dang-ly-thai-to"
+    },
+    {
+      "school_id": 1390,
+      "school_code": "CDT0124",
+      "school_name": "Trường Cao đẳng Nghề Kỹ thuật và Nghiệp vụ Hà Nội",
+      "school_alias": "truong-cao-dang-nghe-ky-thuat-va-nghiep-vu-ha-noi"
+    },
+    {
+      "school_id": 1367,
+      "school_code": "CDD0201",
+      "school_name": "Trường Cao đẳng Nghề Thành phố Hồ Chí Minh",
+      "school_alias": "truong-cao-dang-nghe-thanh-pho-ho-chi-minh"
+    },
+    {
+      "school_id": 1450,
+      "school_code": "CDT119",
+      "school_name": "Trường Cao đẳng Ngoại ngữ Hà Nội",
+      "school_alias": "truong-cao-dang-ngoai-ngu-ha-noi"
+    },
+    {
+      "school_id": 1393,
+      "school_code": "CDD0115",
+      "school_name": "Trường Cao đẳng Ngoại ngữ và Công nghệ Hà Nội",
+      "school_alias": "truong-cao-dang-nghe-van-lang-ha-noi"
+    },
+    {
+      "school_id": 1397,
+      "school_code": "CDD1803",
+      "school_name": "Trường Cao đẳng Ngô Gia Tự Bắc Giang",
+      "school_alias": "truong-cao-dang-ngo-gia-tu-bac-giang"
+    },
+    {
+      "school_id": 1544,
+      "school_code": "CDD3403",
+      "school_name": "Trường Cao đẳng Quảng Nam",
+      "school_alias": "truong-cao-dang-quang-nam"
+    },
+    {
+      "school_id": 1487,
+      "school_code": "CDT3503",
+      "school_name": "Trường Cao đẳng Quảng Ngãi",
+      "school_alias": "truong-cao-dang-quang-ngai"
+    },
+    {
+      "school_id": 1373,
+      "school_code": "CDD4",
+      "school_name": "Trường Cao đẳng Quốc Tế Sài Gòn",
+      "school_alias": "truong-cao-dang-quoc-te-sai-gon"
+    },
+    {
+      "school_id": 1532,
+      "school_code": "CDD0227",
+      "school_name": "Trường Cao đẳng Quốc tế Kent",
+      "school_alias": "truong-cao-dang-quoc-te-kent"
+    },
+    {
+      "school_id": 1525,
+      "school_code": "CDD0206",
+      "school_name": "Trường Cao đẳng Quốc tế TPHCM",
+      "school_alias": "truong-cao-dang-quoc-te-tphcm"
+    },
+    {
+      "school_id": 1504,
+      "school_code": "CDD5204",
+      "school_name": "Trường Cao đẳng Quốc tế Vabis",
+      "school_alias": "truong-cao-dang-quoc-te-vabis"
+    },
+    {
+      "school_id": 1374,
+      "school_code": "CDD0216",
+      "school_name": "Trường Cao đẳng Sài Gòn Gia Định",
+      "school_alias": "truong-cao-dang-sai-gon-gia-dinh"
+    },
+    {
+      "school_id": 1485,
+      "school_code": "CDD3401",
+      "school_name": "Trường Cao đẳng Thaco",
+      "school_alias": "truong-cao-dang-thaco"
+    },
+    {
+      "school_id": 1438,
+      "school_code": "CDT1701",
+      "school_name": "Trường Cao đẳng Than Khoáng sản Việt Nam",
+      "school_alias": "truong-cao-dang-than-–-khoang-san-viet-nam"
+    },
+    {
+      "school_id": 1441,
+      "school_code": "CTM1",
+      "school_name": "Trường Cao đẳng Thương mại và Du lịch Thái Nguyên",
+      "school_alias": "truong-cao-dang-thuong-mai-va-du-lich-thai-nguyen"
+    },
+    {
+      "school_id": 1512,
+      "school_code": "CDT4803",
+      "school_name": "Trường Cao đẳng Thống kê II",
+      "school_alias": "truong-cao-dang-thong-ke-ii"
+    },
+    {
+      "school_id": 1368,
+      "school_code": "CDT0218",
+      "school_name": "Trường Cao đẳng Thủ Thiêm – TP. Hồ Chí Minh",
+      "school_alias": "truong-cao-dang-thu-thiem-–-tp-ho-chi-minh"
+    },
+    {
+      "school_id": 1443,
+      "school_code": "D08",
+      "school_name": "Trường Cao đẳng Tuyên Quang",
+      "school_alias": "truong-cao-dang-nghe-ky-thuat-cong-nghe-tuyen-quang"
+    },
+    {
+      "school_id": 1537,
+      "school_code": "CDT0120",
+      "school_name": "Trường Cao đẳng Tây Đô",
+      "school_alias": "truong-cao-dang-tay-do"
+    },
+    {
+      "school_id": 1423,
+      "school_code": "CDT0306",
+      "school_name": "Trường Cao đẳng VMU",
+      "school_alias": "truong-cao-dang-vmu"
+    },
+    {
+      "school_id": 1509,
+      "school_code": "CDD4403",
+      "school_name": "Trường Cao đẳng Việt Nam-Hàn Quốc Bình Dương",
+      "school_alias": "truong-cao-dang-viet-nam-han-quoc-binh-duong"
+    },
+    {
+      "school_id": 1480,
+      "school_code": "CDD2901",
+      "school_name": "Trường Cao đẳng Việt Đức Nghệ An",
+      "school_alias": "truong-cao-dang-viet-duc-nghe-an"
+    },
+    {
+      "school_id": 1375,
+      "school_code": "VLSC",
+      "school_name": "Trường Cao đẳng Văn Lang Sài Gòn",
+      "school_alias": "truong-cao-dang-van-lang-sai-gon"
+    },
+    {
+      "school_id": 1510,
+      "school_code": "CDD5505",
+      "school_name": "Trường Cao đẳng Văn hoá Nghệ thuật Cần Thơ",
+      "school_alias": "cao-dang-van-hoa-nghe-thuat-can-tho"
+    },
+    {
+      "school_id": 1427,
+      "school_code": "CDD2502",
+      "school_name": "Trường Cao đẳng Văn hóa Nghệ thuật và Du lịch Nam Định",
+      "school_alias": "truong-cao-dang-van-hoa-nghe-thuat-va-du-lich-nam-dinh"
+    },
+    {
+      "school_id": 1456,
+      "school_code": "CDD0409",
+      "school_name": "Trường Cao đẳng Văn hóa – Nghệ thuật Đà Nẵng",
+      "school_alias": "truong-cao-dang-van-hoa-–-nghe-thuat-da-nang"
+    },
+    {
+      "school_id": 1446,
+      "school_code": "C161",
+      "school_name": "Trường Cao đẳng Vĩnh Phúc",
+      "school_alias": "truong-cao-dang-vinh-phuc"
+    },
+    {
+      "school_id": 1376,
+      "school_code": "CHD",
+      "school_name": "Trường Cao đẳng Y Dược Hồng Đức",
+      "school_alias": "truong-cao-dang-y-duoc-hong-duc"
+    },
+    {
+      "school_id": 1448,
+      "school_code": "CDD1301",
+      "school_name": "Trường Cao đẳng Y Dược Pasteur Yên Bái",
+      "school_alias": "truong-cao-dang-y-duoc-pasteur-yen-bai"
+    },
+    {
+      "school_id": 1431,
+      "school_code": "CDT1507",
+      "school_name": "Trường Cao đẳng Y Dược Phú Thọ",
+      "school_alias": "truong-cao-dang-y-duoc-phu-tho"
+    },
+    {
+      "school_id": 1362,
+      "school_code": "CDD4102",
+      "school_name": "Trường Cao đẳng Y Dược Sài Gòn",
+      "school_alias": "truong-cao-dang-y-duoc-sai-gon"
+    },
+    {
+      "school_id": 1529,
+      "school_code": "CDD0122",
+      "school_name": "Trường Cao đẳng Y Hà Nội",
+      "school_alias": "truong-cao-dang-y-ha-noi"
+    },
+    {
+      "school_id": 1377,
+      "school_code": "CBK1",
+      "school_name": "Trường Cao đẳng Y Khoa Phạm Ngọc Thạch",
+      "school_alias": "truong-cao-dang-y-khoa-pham-ngoc-thach"
+    },
+    {
+      "school_id": 1526,
+      "school_code": "CDD13011",
+      "school_name": "Trường Cao đẳng Y dược Pasteur TPHCM",
+      "school_alias": "truong-cao-dang-y-duoc-pasteur-tphcm"
+    },
+    {
+      "school_id": 1534,
+      "school_code": "CDD5102",
+      "school_name": "Trường Cao đẳng Y tế An Giang",
+      "school_alias": "truong-cao-dang-y-te-an-giang"
+    },
+    {
+      "school_id": 1400,
+      "school_code": "CDD1908",
+      "school_name": "Trường Cao đẳng Y tế Bắc Ninh",
+      "school_alias": "truong-cao-dang-y-te-bac-ninh"
+    },
+    {
+      "school_id": 1481,
+      "school_code": "YPY",
+      "school_name": "Trường Cao đẳng Y tế Phú Yên",
+      "school_alias": "truong-cao-dang-y-te-phu-yen"
+    },
+    {
+      "school_id": 1468,
+      "school_code": "CDD4004",
+      "school_name": "Trường Cao đẳng Y tế Đắk Lắk",
+      "school_alias": "truong-cao-dang-y-te-dak-lak"
+    },
+    {
+      "school_id": 1486,
+      "school_code": "CDD3501",
+      "school_name": "Trường Cao đẳng Y tế Đặng Thùy Trâm",
+      "school_alias": "truong-cao-dang-y-te-dang-thuy-tram"
+    },
+    {
+      "school_id": 1380,
+      "school_code": "YT02",
+      "school_name": "Trường Cao đẳng Y tế Đặng Văn Ngữ",
+      "school_alias": "truong-cao-dang-y-te-dang-van-ngu"
+    },
+    {
+      "school_id": 1379,
+      "school_code": "CDD1909",
+      "school_name": "Trường Cao đẳng Y – Dược Cộng đồng",
+      "school_alias": "truong-cao-dang-y-–-duoc-cong-dong"
+    },
+    {
+      "school_id": 1494,
+      "school_code": "CDD2810",
+      "school_name": "Trường Cao đẳng Y – Dược Hợp Lực, Thanh Hóa",
+      "school_alias": "truong-cao-dang-y-–-duoc-hop-luc-thanh-hoa"
+    },
+    {
+      "school_id": 1527,
+      "school_code": "C13",
+      "school_name": "Trường Cao đẳng Yên Bái",
+      "school_alias": "truong-cao-dang-yen-bai"
+    },
+    {
+      "school_id": 1500,
+      "school_code": "CDD5101",
+      "school_name": "Trường Cao đẳng nghề An Giang",
+      "school_alias": "truong-cao-dang-nghe-an-giang"
+    },
+    {
+      "school_id": 1417,
+      "school_code": "CDD0305",
+      "school_name": "Trường Cao đẳng nghề Bách nghệ Hải Phòng",
+      "school_alias": "truong-cao-dang-nghe-bach-nghe-hai-phong"
+    },
+    {
+      "school_id": 1386,
+      "school_code": "CDD0101",
+      "school_name": "Trường Cao đẳng nghề Công nghiệp Hà Nội",
+      "school_alias": "truong-cao-dang-nghe-cong-nghiep-ha-noi"
+    },
+    {
+      "school_id": 1418,
+      "school_code": "CDD0304",
+      "school_name": "Trường Cao đẳng nghề Công nghiệp Hải Phòng",
+      "school_alias": "truong-cao-dang-nghe-cong-nghiep-hai-phong"
+    },
+    {
+      "school_id": 1518,
+      "school_code": "CDT3001",
+      "school_name": "Trường Cao đẳng nghề Công nghệ Hà Tĩnh",
+      "school_alias": "truong-cao-dang-nghe-cong-nghe-ha-tinh"
+    },
+    {
+      "school_id": 1395,
+      "school_code": "CDD4402",
+      "school_name": "Trường Cao đẳng nghề Công nghệ cao Đồng An",
+      "school_alias": "truong-cao-dang-nghe-cong-nghe-cao-dong-an"
+    },
+    {
+      "school_id": 1517,
+      "school_code": "CDD4805",
+      "school_name": "Trường Cao đẳng nghề Công nghệ cao Đồng Nai",
+      "school_alias": "truong-cao-dang-nghe-cong-nghe-cao-dong-nai"
+    },
+    {
+      "school_id": 1489,
+      "school_code": "CDD3502",
+      "school_name": "Trường Cao đẳng nghề Cơ giới Quảng Ngãi",
+      "school_alias": "truong-cao-dang-nghe-co-gioi-quang-ngai"
+    },
+    {
+      "school_id": 1516,
+      "school_code": "CDT4804",
+      "school_name": "Trường Cao đẳng nghề Cơ giới và Thủy lợi",
+      "school_alias": "truong-cao-dang-nghe-co-gioi-va-thuy-loi"
+    },
+    {
+      "school_id": 1385,
+      "school_code": "CT0105",
+      "school_name": "Trường Cao đẳng nghề Cơ điện Hà Nội",
+      "school_alias": "truong-cao-dang-nghe-co-dien-ha-noi"
+    },
+    {
+      "school_id": 1428,
+      "school_code": "CDT2701",
+      "school_name": "Trường Cao đẳng nghề Cơ điện xây dựng Việt Xô",
+      "school_alias": "truong-cao-dang-nghe-co-dien-xay-dung-viet-xo"
+    },
+    {
+      "school_id": 1511,
+      "school_code": "CDD5501",
+      "school_name": "Trường Cao đẳng nghề Cần Thơ",
+      "school_alias": "truong-cao-dang-nghe-can-tho"
+    },
+    {
+      "school_id": 1370,
+      "school_code": "CDD0402",
+      "school_name": "Trường Cao đẳng nghề Hoa Sen",
+      "school_alias": "truong-cao-dang-nghe-hoa-sen"
+    },
+    {
+      "school_id": 1409,
+      "school_code": "CDD2402",
+      "school_name": "Trường Cao đẳng nghề Hà Nam",
+      "school_alias": "truong-cao-dang-nghe-ha-nam"
+    },
+    {
+      "school_id": 1414,
+      "school_code": "CDHD2101",
+      "school_name": "Trường Cao đẳng nghề Hải Dương",
+      "school_alias": "truong-cao-dang-nghe-hai-duong"
+    },
+    {
+      "school_id": 1425,
+      "school_code": "CDD2201",
+      "school_name": "Trường Cao đẳng nghề Kinh tế – Kỹ thuật Tô Hiệu",
+      "school_alias": "truong-cao-dang-nghe-kinh-te-–-ky-thuat-to-hieu"
+    },
+    {
+      "school_id": 1478,
+      "school_code": "CDT2904",
+      "school_name": "Trường Cao đẳng nghề Kinh tế – Kỹ thuật số 1 Nghệ An",
+      "school_alias": "truong-cao-dang-nghe-kinh-te-–-ky-thuat-so-1-nghe-an"
+    },
+    {
+      "school_id": 1520,
+      "school_code": "CDD5401",
+      "school_name": "Trường Cao đẳng nghề Kiên Giang",
+      "school_alias": "truong-cao-dang-nghe-kien-giang"
+    },
+    {
+      "school_id": 1388,
+      "school_code": "CDT0104",
+      "school_name": "Trường Cao đẳng nghề Kỹ thuật Công nghệ",
+      "school_alias": "truong-cao-dang-nghe-ky-thuat-cong-nghe"
+    },
+    {
+      "school_id": 1389,
+      "school_code": "CDT0110",
+      "school_name": "Trường Cao đẳng nghề Kỹ thuật Mỹ nghệ Việt Nam",
+      "school_alias": "truong-cao-dang-nghe-ky-thuat-my-nghe-viet-nam"
+    },
+    {
+      "school_id": 1421,
+      "school_code": "CDD03051",
+      "school_name": "Trường Cao đẳng nghề Lao động – Xã hội Hải Phòng",
+      "school_alias": "truong-cao-dang-nghe-lao-dong-–-xa-hoi-hai-phong"
+    },
+    {
+      "school_id": 1391,
+      "school_code": "CDT0112",
+      "school_name": "Trường Cao đẳng nghề Long Biên",
+      "school_alias": "truong-cao-dang-nghe-long-bien"
+    },
+    {
+      "school_id": 1426,
+      "school_code": "CDD1001",
+      "school_name": "Trường Cao đẳng nghề Lạng Sơn",
+      "school_alias": "truong-cao-dang-nghe-lang-son"
+    },
+    {
+      "school_id": 1462,
+      "school_code": "CDD0403",
+      "school_name": "Trường Cao đẳng nghề Nguyễn Văn Trỗi",
+      "school_alias": "truong-cao-dang-nghe-nguyen-van-troi"
+    },
+    {
+      "school_id": 1435,
+      "school_code": "063",
+      "school_name": "Trường Cao đẳng nghề Phú Thọ",
+      "school_alias": "truong-cao-dang-nghe-phu-tho"
+    },
+    {
+      "school_id": 1521,
+      "school_code": "CDD5901",
+      "school_name": "Trường Cao đẳng nghề Sóc Trăng",
+      "school_alias": "truong-cao-dang-nghe-soc-trang"
+    },
+    {
+      "school_id": 1424,
+      "school_code": "CDT2301",
+      "school_name": "Trường Cao đẳng nghề Sông Đà",
+      "school_alias": "truong-cao-dang-nghe-song-da"
+    },
+    {
+      "school_id": 1440,
+      "school_code": "CDD2601",
+      "school_name": "Trường Cao đẳng nghề Thái Bình",
+      "school_alias": "truong-cao-dang-nghe-thai-binh"
+    },
+    {
+      "school_id": 1523,
+      "school_code": "039",
+      "school_name": "Trường Cao đẳng nghề Trà Vinh",
+      "school_alias": "truong-cao-dang-nghe-tra-vinh"
+    },
+    {
+      "school_id": 1405,
+      "school_code": "CDD0116",
+      "school_name": "Trường Cao đẳng nghề Viglacera",
+      "school_alias": "truong-cao-dang-nghe-viglacera"
+    },
+    {
+      "school_id": 1463,
+      "school_code": "CDD0406",
+      "school_name": "Trường Cao đẳng nghề Việt - Úc Đà Nẵng",
+      "school_alias": "truong-cao-dang-nghe-viet-uc-da-nang"
+    },
+    {
+      "school_id": 1508,
+      "school_code": "CDD4401",
+      "school_name": "Trường Cao đẳng nghề Việt Nam – Singapore",
+      "school_alias": "truong-cao-dang-nghe-viet-nam-–-singapore"
+    },
+    {
+      "school_id": 1490,
+      "school_code": "CDD35021",
+      "school_name": "Trường Cao đẳng nghề Việt Nam-Hàn Quốc Quảng Ngãi",
+      "school_alias": "truong-cao-dang-nghe-viet-nam-han-quoc-quang-ngai"
+    },
+    {
+      "school_id": 1404,
+      "school_code": "CDD1701",
+      "school_name": "Trường Cao đẳng nghề Việt – Hàn Quảng Ninh",
+      "school_alias": "truong-cao-dang-nghe-viet-–-han-quang-ninh"
+    },
+    {
+      "school_id": 1471,
+      "school_code": "CDD3001",
+      "school_name": "Trường Cao đẳng nghề Việt-Đức Hà Tĩnh",
+      "school_alias": "truong-cao-dang-nghe-viet-duc-ha-tinh"
+    },
+    {
+      "school_id": 1442,
+      "school_code": "CDT1203",
+      "school_name": "Trường Cao đẳng nghề số 1 – Bộ Quốc phòng",
+      "school_alias": "truong-cao-dang-nghe-so-1-–-bo-quoc-phong"
+    },
+    {
+      "school_id": 1406,
+      "school_code": "CDD6201",
+      "school_name": "Trường Cao đẳng nghề Điện Biên",
+      "school_alias": "truong-cao-dang-nghe-dien-bien"
+    },
+    {
+      "school_id": 1461,
+      "school_code": "CDD0401",
+      "school_name": "Trường Cao đẳng nghề Đà Nẵng",
+      "school_alias": "truong-cao-dang-nghe-da-nang"
+    },
+    {
+      "school_id": 1383,
+      "school_code": "CDT0103",
+      "school_name": "Trường Cao đẳng Điện lực miền Bắc",
+      "school_alias": "truong-cao-dang-dien-luc-mien-bac"
+    },
+    {
+      "school_id": 1476,
+      "school_code": "CDD4201",
+      "school_name": "Trường Cao đẳng Đà Lạt",
+      "school_alias": "truong-cao-dang-nghe-da-lat"
+    },
+    {
+      "school_id": 1539,
+      "school_code": "CCZ1",
+      "school_name": "Trường Cao đẳng Đại Việt Cần Thơ",
+      "school_alias": "truong-cao-dang-dai-viet-can-tho"
+    },
+    {
+      "school_id": 1457,
+      "school_code": "CCZ",
+      "school_name": "Trường Cao đẳng Đại Việt Đà Nẵng",
+      "school_alias": "truong-cao-dang-dai-viet-da-nang"
+    },
+    {
+      "school_id": 1507,
+      "school_code": "CDT5601",
+      "school_name": "Trường Cao đẳng Đồng Khởi",
+      "school_alias": "truong-cao-dang-dong-khoi"
+    },
+    {
+      "school_id": 263,
+      "school_code": "DHD",
+      "school_name": "Trường Du Lịch - Đại Học Huế",
+      "school_alias": "truong-du-lich-dai-hoc-hue"
+    },
+    {
+      "school_id": 1330,
+      "school_code": "QHK",
+      "school_name": "Trường Khoa học liên ngành và Nghệ thuật Hà Nội",
+      "school_alias": "truong-khoa-hoc-lien-nganh-va-nghe-thuat-ha-noi"
+    },
+    {
+      "school_id": 267,
+      "school_code": "DTF",
+      "school_name": "Trường Ngoại Ngữ Thái Nguyên",
+      "school_alias": "truong-ngoai-ngu-thai-nguyen"
+    },
+    {
+      "school_id": 1314,
+      "school_code": "QHD",
+      "school_name": "Trường Quản Trị và Kinh Doanh - ĐHQG Hà Nội",
+      "school_alias": "truong-quan-tri-va-kinh-doanh-dh-quoc-gia-ha-noi"
+    },
+    {
+      "school_id": 268,
+      "school_code": "QHQ",
+      "school_name": "Trường Quốc Tế  - ĐHQG Hà Nội",
+      "school_alias": "truong-quoc-te-dai-hoc-quoc-gia-ha-noi"
+    },
+    {
+      "school_id": 487,
+      "school_code": "LCH",
+      "school_name": "Trường Sĩ Quan Chính Trị - Đại Học Chính Trị",
+      "school_alias": "truong-si-quan-chinh-tri-dai-hoc-chinh-tri"
+    },
+    {
+      "school_id": 275,
+      "school_code": "SNH",
+      "school_name": "Trường Sĩ Quan Công Binh - Hệ Quân sự - Đại học Ngô Quyền",
+      "school_alias": "truong-si-quan-cong-binh-he-quan-su-dai-hoc-ngo-quyen"
+    },
+    {
+      "school_id": 279,
+      "school_code": "KGH",
+      "school_name": "Trường Sĩ Quan Không Quân - Hệ Đại học",
+      "school_alias": "truong-si-quan-khong-quan-he-dai-hoc"
+    },
+    {
+      "school_id": 488,
+      "school_code": "VPH",
+      "school_name": "Trường Sĩ Quan Kĩ Thuật Quân Sự -  Hệ Quân sự - Đại Học Trần Đại Nghĩa",
+      "school_alias": "truong-si-quan-ki-thuat-quan-su-he-quan-su-dai-hoc-tran-dai-nghia"
+    },
+    {
+      "school_id": 280,
+      "school_code": "LAH",
+      "school_name": "Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn",
+      "school_alias": "truong-si-quan-luc-quan-1-dai-hoc-tran-quoc-tuan"
+    },
+    {
+      "school_id": 283,
+      "school_code": "LBH",
+      "school_name": "Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ",
+      "school_alias": "truong-si-quan-luc-quan-2-dai-hoc-nguyen-hue"
+    },
+    {
+      "school_id": 284,
+      "school_code": "PBH",
+      "school_name": "Trường Sĩ Quan Pháo Binh",
+      "school_alias": "truong-si-quan-phao-binh"
+    },
+    {
+      "school_id": 286,
+      "school_code": "HGH",
+      "school_name": "Trường Sĩ Quan Phòng Hóa",
+      "school_alias": "truong-si-quan-phong-hoa"
+    },
+    {
+      "school_id": 551,
+      "school_code": "TCU",
+      "school_name": "Trường Sĩ Quan Thông Tin - Hệ Dân Sự - Đại Học Thông Tin Liên Lạc",
+      "school_alias": "truong-si-quan-thong-tin-he-dan-su-dai-hoc-thong-tin-lien-lac"
+    },
+    {
+      "school_id": 290,
+      "school_code": "TTH",
+      "school_name": "Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc",
+      "school_alias": "truong-si-quan-thong-tin-he-quan-su-dai-hoc-thong-tin-lien-lac"
+    },
+    {
+      "school_id": 292,
+      "school_code": "DCH",
+      "school_name": "Trường Sĩ Quan Đặc Công",
+      "school_alias": "truong-si-quan-dac-cong"
+    },
+    {
+      "school_id": 293,
+      "school_code": "TGH",
+      "school_name": "Trường Sĩ Quan Tăng - Thiết Giáp",
+      "school_alias": "truong-siquan-tang-thiet-giap"
+    },
+    {
+      "school_id": 270,
+      "school_code": "DDY",
+      "school_name": "Trường Y Dược Đà Nẵng",
+      "school_alias": "truong-y-duoc-da-nang"
+    },
+    {
+      "school_id": 297,
+      "school_code": "QSA",
+      "school_name": "Trường Đại Học An Giang",
+      "school_alias": "dai-hoc-an-giang"
+    },
+    {
+      "school_id": 298,
+      "school_code": "ANS",
+      "school_name": "Trường Đại Học An Ninh Nhân Dân",
+      "school_alias": "dai-hoc-an-ninh-nhan-dan"
+    },
+    {
+      "school_id": 535,
+      "school_code": "BUV",
+      "school_name": "Trường Đại Học Anh Quốc Việt Nam",
+      "school_alias": "dai-hoc-anh-quoc-viet-nam"
+    },
+    {
+      "school_id": 299,
+      "school_code": "BVU",
+      "school_name": "Trường Đại Học Bà Rịa – Vũng Tàu",
+      "school_alias": "dai-hoc-ba-ria-vung-tau"
+    },
+    {
+      "school_id": 300,
+      "school_code": "QSB",
+      "school_name": "Trường Đại Học Bách Khoa HCM",
+      "school_alias": "dai-hoc-bach-khoa-hcm"
+    },
+    {
+      "school_id": 301,
+      "school_code": "DDK",
+      "school_name": "Trường Đại Học Bách Khoa Đà Nẵng",
+      "school_alias": "dai-hoc-bach-khoa-da-nang"
+    },
+    {
+      "school_id": 305,
+      "school_code": "DBD",
+      "school_name": "Trường Đại Học Bình Dương",
+      "school_alias": "dai-hoc-binh-duong"
+    },
+    {
+      "school_id": 306,
+      "school_code": "DBL",
+      "school_name": "Trường Đại Học Bạc Liêu",
+      "school_alias": "dai-hoc-bac-lieu"
+    },
+    {
+      "school_id": 557,
+      "school_code": "CMC",
+      "school_name": "Trường Đại Học CMC",
+      "school_alias": "dai-hoc-cmc"
+    },
+    {
+      "school_id": 309,
+      "school_code": "DDM",
+      "school_name": "Trường Đại Học Công Nghiệp Quảng Ninh",
+      "school_alias": "dai-hoc-cong-nghiep-quang-ninh"
+    },
+    {
+      "school_id": 310,
+      "school_code": "IUH",
+      "school_name": "Trường Đại Học Công Nghiệp TPHCM",
+      "school_alias": "dai-hoc-cong-nghiep-tphcm"
+    },
+    {
+      "school_id": 481,
+      "school_code": "VHD",
+      "school_name": "Trường Đại Học Công Nghiệp Việt - Hung",
+      "school_alias": "dai-hoc-cong-nghiep-viet-hung"
+    },
+    {
+      "school_id": 461,
+      "school_code": "VUI",
+      "school_name": "Trường Đại Học Công Nghiệp Việt Trì",
+      "school_alias": "dai-hoc-cong-nghiep-viet-tri"
+    },
+    {
+      "school_id": 312,
+      "school_code": "DSG",
+      "school_name": "Trường Đại Học Công Nghệ Sài Gòn",
+      "school_alias": "dai-hoc-cong-nghe-sai-gon"
+    },
+    {
+      "school_id": 313,
+      "school_code": "QSC",
+      "school_name": "Trường Đại Học Công Nghệ Thông Tin - ĐHQG TPHCM",
+      "school_alias": "dai-hoc-cong-nghe-thong-tin-dhqg-tphcm"
+    },
+    {
+      "school_id": 315,
+      "school_code": "DVX",
+      "school_name": "Trường Đại Học Công Nghệ Vạn Xuân",
+      "school_alias": "dai-hoc-cong-nghe-van-xuan"
+    },
+    {
+      "school_id": 434,
+      "school_code": "DCQ",
+      "school_name": "Trường Đại Học Công Nghệ và Quản Lý Hữu Nghị",
+      "school_alias": "dai-hoc-cong-nghe-va-quan-ly-huu-nghi"
+    },
+    {
+      "school_id": 521,
+      "school_code": "DDA",
+      "school_name": "Trường Đại Học Công Nghệ Đông Á",
+      "school_alias": "dai-hoc-cong-nghe-dong-a"
+    },
+    {
+      "school_id": 485,
+      "school_code": "DCD",
+      "school_name": "Trường Đại Học Công Nghệ Đồng Nai",
+      "school_alias": "dai-hoc-cong-nghe-dong-nai"
+    },
+    {
+      "school_id": 311,
+      "school_code": "QHI",
+      "school_name": "Trường Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội",
+      "school_alias": "dai-hoc-cong-nghe-dai-hoc-quoc-gia-ha-noi"
+    },
+    {
+      "school_id": 475,
+      "school_code": "DCT",
+      "school_name": "Trường Đại Học Công Thương TPHCM",
+      "school_alias": "dai-hoc-cong-thuong-tphcm"
+    },
+    {
+      "school_id": 415,
+      "school_code": "SPK",
+      "school_name": "Trường Đại Học Công nghệ Kỹ thuật TP HCM",
+      "school_alias": "dai-hoc-cong-nghe-ky-thuat-tphcm"
+    },
+    {
+      "school_id": 316,
+      "school_code": "LDA",
+      "school_name": "Trường Đại Học Công Đoàn",
+      "school_alias": "dai-hoc-cong-doan"
+    },
+    {
+      "school_id": 317,
+      "school_code": "CSS",
+      "school_name": "Trường Đại Học Cảnh Sát Nhân Dân",
+      "school_alias": "dai-hoc-canh-sat-nhan-dan"
+    },
+    {
+      "school_id": 319,
+      "school_code": "DCL",
+      "school_name": "Trường Đại Học Cửu Long",
+      "school_alias": "dai-hoc-cuu-long"
+    },
+    {
+      "school_id": 328,
+      "school_code": "DKH",
+      "school_name": "Trường Đại Học Dược Hà Nội",
+      "school_alias": "dai-hoc-duoc-ha-noi"
+    },
+    {
+      "school_id": 526,
+      "school_code": "PVU",
+      "school_name": "Trường Đại Học Dầu Khí Việt Nam",
+      "school_alias": "dai-hoc-dau-khi-viet-nam"
+    },
+    {
+      "school_id": 329,
+      "school_code": "FPT",
+      "school_name": "Trường Đại Học FPT",
+      "school_alias": "dai-hoc-fpt"
+    },
+    {
+      "school_id": 314,
+      "school_code": "GDU",
+      "school_name": "Trường Đại Học Gia Định",
+      "school_alias": "dai-hoc-gia-dinh"
+    },
+    {
+      "school_id": 330,
+      "school_code": "GHA",
+      "school_name": "Trường Đại Học Giao Thông Vận Tải",
+      "school_alias": "dai-hoc-giao-thong-van-tai-co-so-phia-bac"
+    },
+    {
+      "school_id": 331,
+      "school_code": "GSA",
+      "school_name": "Trường Đại Học Giao Thông Vận Tải (Cơ sở 2)",
+      "school_alias": "dai-hoc-giao-thong-van-tai-co-so-phia-nam"
+    },
+    {
+      "school_id": 332,
+      "school_code": "GTS",
+      "school_name": "Trường Đại Học Giao Thông Vận Tải TPHCM",
+      "school_alias": "dai-hoc-giao-thong-van-tai-tphcm"
+    },
+    {
+      "school_id": 533,
+      "school_code": "QHS",
+      "school_name": "Trường Đại Học Giáo Dục - ĐHQG Hà Nội",
+      "school_alias": "dai-hoc-giao-duc-ha-noi"
+    },
+    {
+      "school_id": 333,
+      "school_code": "DNB",
+      "school_name": "Trường Đại Học Hoa Lư",
+      "school_alias": "dai-hoc-hoa-lu"
+    },
+    {
+      "school_id": 334,
+      "school_code": "HSU",
+      "school_name": "Trường Đại Học Hoa Sen",
+      "school_alias": "dai-hoc-hoa-sen"
+    },
+    {
+      "school_id": 335,
+      "school_code": "DHH",
+      "school_name": "Trường Đại Học Hà Hoa Tiên",
+      "school_alias": "dai-hoc-ha-hoa-tien"
+    },
+    {
+      "school_id": 336,
+      "school_code": "NHF",
+      "school_name": "Trường Đại Học Hà Nội",
+      "school_alias": "dai-hoc-ha-noi"
+    },
+    {
+      "school_id": 337,
+      "school_code": "HHT",
+      "school_name": "Trường Đại Học Hà Tĩnh",
+      "school_alias": "dai-hoc-ha-tinh"
+    },
+    {
+      "school_id": 338,
+      "school_code": "HHA",
+      "school_name": "Trường Đại Học Hàng Hải Việt Nam",
+      "school_alias": ""
+    },
+    {
+      "school_id": 339,
+      "school_code": "ETU",
+      "school_name": "Trường Đại Học Hòa Bình",
+      "school_alias": "dai-hoc-hoa-binh"
+    },
+    {
+      "school_id": 340,
+      "school_code": "THV",
+      "school_name": "Trường Đại Học Hùng Vương",
+      "school_alias": "dai-hoc-hung-vuong"
+    },
+    {
+      "school_id": 573,
+      "school_code": "HLU",
+      "school_name": "Trường Đại Học Hạ Long",
+      "school_alias": "dai-hoc-ha-long"
+    },
+    {
+      "school_id": 480,
+      "school_code": "DKT",
+      "school_name": "Trường Đại Học Hải Dương",
+      "school_alias": "dai-hoc-hai-duong"
+    },
+    {
+      "school_id": 342,
+      "school_code": "THP",
+      "school_name": "Trường Đại Học Hải Phòng",
+      "school_alias": "dai-hoc-hai-phong"
+    },
+    {
+      "school_id": 343,
+      "school_code": "HDT",
+      "school_name": "Trường Đại Học Hồng Đức",
+      "school_alias": "dai-hoc-hong-duc"
+    },
+    {
+      "school_id": 344,
+      "school_code": "DHT",
+      "school_name": "Trường Đại Học Khoa Học Huế",
+      "school_alias": "dai-hoc-khoa-hoc-hue"
+    },
+    {
+      "school_id": 345,
+      "school_code": "DTZ",
+      "school_name": "Trường Đại Học Khoa Học Thái Nguyên",
+      "school_alias": "dai-hoc-khoa-hoc-thai-nguyen"
+    },
+    {
+      "school_id": 346,
+      "school_code": "QHT",
+      "school_name": "Trường Đại Học Khoa Học Tự Nhiên Hà Nội",
+      "school_alias": "dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-ha-noi"
+    },
+    {
+      "school_id": 347,
+      "school_code": "QST",
+      "school_name": "Trường Đại Học Khoa Học Tự Nhiên TPHCM",
+      "school_alias": "dai-hoc-khoa-hoc-tu-nhien-tphcm"
+    },
+    {
+      "school_id": 531,
+      "school_code": "KCN",
+      "school_name": "Trường Đại Học Khoa Học Và Công Nghệ Hà Nội",
+      "school_alias": "dai-hoc-khoa-hoc-va-cong-nghe-ha-noi"
+    },
+    {
+      "school_id": 348,
+      "school_code": "QHX",
+      "school_name": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn Hà Nội",
+      "school_alias": "dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-ha-noi"
+    },
+    {
+      "school_id": 349,
+      "school_code": "QSX",
+      "school_name": "Trường Đại Học Khoa Học Xã Hội và Nhân Văn TPHCM",
+      "school_alias": "dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-tphcm"
+    },
+    {
+      "school_id": 536,
+      "school_code": "UKB",
+      "school_name": "Trường Đại Học Kinh Bắc",
+      "school_alias": "dai-hoc-kinh-bac"
+    },
+    {
+      "school_id": 350,
+      "school_code": "DQK",
+      "school_name": "Trường Đại Học Kinh Doanh và Công Nghệ Hà Nội",
+      "school_alias": "dai-hoc-kinh-doanh-va-cong-nghe-ha-noi"
+    },
+    {
+      "school_id": 352,
+      "school_code": "QHE",
+      "school_name": "Trường Đại Học Kinh Tế - ĐHQG Hà Nội",
+      "school_alias": "dai-hoc-kinh-te-ha-noi"
+    },
+    {
+      "school_id": 351,
+      "school_code": "DHK",
+      "school_name": "Trường Đại Học Kinh Tế - Đại Học Huế",
+      "school_alias": "dai-hoc-kinh-te-dai-hoc-hue"
+    },
+    {
+      "school_id": 355,
+      "school_code": "DLA",
+      "school_name": "Trường Đại Học Kinh Tế Công Nghiệp Long An",
+      "school_alias": "dai-hoc-kinh-te-cong-nghiep-long-an"
+    },
+    {
+      "school_id": 468,
+      "school_code": "DKB",
+      "school_name": "Trường Đại Học Kinh Tế Kỹ Thuật Bình Dương",
+      "school_alias": "dai-hoc-kinh-te-ky-thuat-binh-duong"
+    },
+    {
+      "school_id": 356,
+      "school_code": "DKK",
+      "school_name": "Trường Đại Học Kinh Tế Kỹ Thuật Công Nghiệp",
+      "school_alias": "dai-hoc-kinh-te-ky-thuat-cong-nghiep"
+    },
+    {
+      "school_id": 354,
+      "school_code": "UEF",
+      "school_name": "Trường Đại Học Kinh Tế Tài Chính TPHCM",
+      "school_alias": "dai-hoc-kinh-te-tai-chinh-tphcm"
+    },
+    {
+      "school_id": 353,
+      "school_code": "DDQ",
+      "school_name": "Trường Đại Học Kinh Tế – Đại Học Đà Nẵng",
+      "school_alias": "dai-hoc-kinh-te-dai-hoc-da-nang"
+    },
+    {
+      "school_id": 537,
+      "school_code": "DVB",
+      "school_name": "Trường Đại Học Kinh tế công nghệ Thái Nguyên",
+      "school_alias": "dai-hoc-kinh-te-cong-nghe-thai-nguyen"
+    },
+    {
+      "school_id": 360,
+      "school_code": "KTA",
+      "school_name": "Trường Đại Học Kiến Trúc Hà Nội",
+      "school_alias": "dai-hoc-kien-truc-ha-noi"
+    },
+    {
+      "school_id": 361,
+      "school_code": "KTS",
+      "school_name": "Trường Đại Học Kiến Trúc TPHCM",
+      "school_alias": "dai-hoc-kien-truc-tphcm"
+    },
+    {
+      "school_id": 362,
+      "school_code": "KTD",
+      "school_name": "Trường Đại Học Kiến Trúc Đà Nẵng",
+      "school_alias": "dai-hoc-kien-truc-da-nang"
+    },
+    {
+      "school_id": 364,
+      "school_code": "DTK",
+      "school_name": "Trường Đại Học Kỹ Thuật Công Nghiệp Thái Nguyên",
+      "school_alias": "dai-hoc-ky-thuat-cong-nghiep-thai-nguyen"
+    },
+    {
+      "school_id": 365,
+      "school_code": "DKY",
+      "school_name": "Trường Đại Học Kỹ Thuật Y Tế Hải Dương",
+      "school_alias": "dai-hoc-ky-thuat-y-te-hai-duong"
+    },
+    {
+      "school_id": 366,
+      "school_code": "DLX",
+      "school_name": "Trường Đại Học Lao Động – Xã Hội",
+      "school_alias": "dai-hoc-lao-dong-xa-hoi-co-so-ha-noi"
+    },
+    {
+      "school_id": 367,
+      "school_code": "DLS",
+      "school_name": "Trường Đại Học Lao Động – Xã Hội (Cơ sở II)",
+      "school_alias": "dai-hoc-lao-dong-xa-hoi-co-so-phia-nam"
+    },
+    {
+      "school_id": 368,
+      "school_code": "LPH",
+      "school_name": "Trường Đại Học Luật Hà Nội",
+      "school_alias": "dai-hoc-luat-ha-noi"
+    },
+    {
+      "school_id": 369,
+      "school_code": "LPS",
+      "school_name": "Trường Đại Học Luật TPHCM",
+      "school_alias": "dai-hoc-luat-tphcm"
+    },
+    {
+      "school_id": 370,
+      "school_code": "LNH",
+      "school_name": "Trường Đại Học Lâm nghiệp",
+      "school_alias": "dai-hoc-lam-nghiep"
+    },
+    {
+      "school_id": 323,
+      "school_code": "DTV",
+      "school_name": "Trường Đại Học Lương Thế Vinh",
+      "school_alias": "dai-hoc-luong-the-vinh"
+    },
+    {
+      "school_id": 371,
+      "school_code": "DLH",
+      "school_name": "Trường Đại Học Lạc Hồng",
+      "school_alias": "dai-hoc-lac-hong"
+    },
+    {
+      "school_id": 375,
+      "school_code": "MDA",
+      "school_name": "Trường Đại Học Mỏ Địa Chất",
+      "school_alias": "dai-hoc-mo-dia-chat"
+    },
+    {
+      "school_id": 296,
+      "school_code": "MHN",
+      "school_name": "Trường Đại Học Mở Hà Nội",
+      "school_alias": "dai-hoc-mo-ha-noi"
+    },
+    {
+      "school_id": 376,
+      "school_code": "MBS",
+      "school_name": "Trường Đại Học Mở TPHCM",
+      "school_alias": "dai-hoc-mo-tphcm"
+    },
+    {
+      "school_id": 372,
+      "school_code": "MTC",
+      "school_name": "Trường Đại Học Mỹ Thuật Công Nghiệp",
+      "school_alias": "dai-hoc-my-thuat-cong-nghiep"
+    },
+    {
+      "school_id": 373,
+      "school_code": "MTS",
+      "school_name": "Trường Đại Học Mỹ Thuật TPHCM",
+      "school_alias": "dai-hoc-my-thuat-tphcm"
+    },
+    {
+      "school_id": 374,
+      "school_code": "MTH",
+      "school_name": "Trường Đại Học Mỹ Thuật Việt Nam",
+      "school_alias": "dai-hoc-my-thuat-viet-nam"
+    },
+    {
+      "school_id": 377,
+      "school_code": "DHN",
+      "school_name": "Trường Đại Học Nghệ Thuật Huế",
+      "school_alias": "dai-hoc-nghe-thuat-hue"
+    },
+    {
+      "school_id": 380,
+      "school_code": "QHF",
+      "school_name": "Trường Đại Học Ngoại Ngữ - ĐH Quốc gia Hà Nội",
+      "school_alias": "dai-hoc-ngoai-ngu-ha-noi"
+    },
+    {
+      "school_id": 379,
+      "school_code": "DHF",
+      "school_name": "Trường Đại Học Ngoại Ngữ Huế",
+      "school_alias": "dai-hoc-ngoai-ngu-hue"
+    },
+    {
+      "school_id": 378,
+      "school_code": "DNT",
+      "school_name": "Trường Đại Học Ngoại Ngữ Tin Học TPHCM",
+      "school_alias": "dai-hoc-ngoai-ngu-tin-hoc-tphcm"
+    },
+    {
+      "school_id": 381,
+      "school_code": "DDF",
+      "school_name": "Trường Đại Học Ngoại Ngữ Đà Nẵng",
+      "school_alias": "dai-hoc-ngoai-ngu-da-nang"
+    },
+    {
+      "school_id": 384,
+      "school_code": "NTU",
+      "school_name": "Trường Đại Học Nguyễn Trãi",
+      "school_alias": "dai-hoc-nguyen-trai"
+    },
+    {
+      "school_id": 473,
+      "school_code": "NTT",
+      "school_name": "Trường Đại Học Nguyễn Tất Thành",
+      "school_alias": "dai-hoc-nguyen-tat-thanh"
+    },
+    {
+      "school_id": 385,
+      "school_code": "NHS",
+      "school_name": "Trường Đại Học Ngân Hàng TPHCM",
+      "school_alias": "dai-hoc-ngan-hang-tphcm"
+    },
+    {
+      "school_id": 386,
+      "school_code": "TSN",
+      "school_name": "Trường Đại Học Nha Trang",
+      "school_alias": "dai-hoc-nha-trang"
+    },
+    {
+      "school_id": 389,
+      "school_code": "DHL",
+      "school_name": "Trường Đại Học Nông Lâm Huế",
+      "school_alias": "dai-hoc-nong-lam-hue"
+    },
+    {
+      "school_id": 391,
+      "school_code": "NLS",
+      "school_name": "Trường Đại Học Nông Lâm TPHCM",
+      "school_alias": "dai-hoc-nong-lam-tphcm"
+    },
+    {
+      "school_id": 390,
+      "school_code": "DTN",
+      "school_name": "Trường Đại Học Nông Lâm Thái Nguyên",
+      "school_alias": "dai-hoc-nong-lam-thai-nguyen"
+    },
+    {
+      "school_id": 393,
+      "school_code": "DPC",
+      "school_name": "Trường Đại Học Phan Châu Trinh",
+      "school_alias": "dai-hoc-phan-chau-trinh"
+    },
+    {
+      "school_id": 510,
+      "school_code": "DPT",
+      "school_name": "Trường Đại Học Phan Thiết",
+      "school_alias": "dai-hoc-phan-thiet"
+    },
+    {
+      "school_id": 542,
+      "school_code": "PCH1",
+      "school_name": "Trường Đại Học Phòng Cháy Chữa Cháy (Hệ Dân sự Phía Bắc)",
+      "school_alias": "dai-hoc-phong-chay-chua-chay-he-dan-su-phia-bac"
+    },
+    {
+      "school_id": 543,
+      "school_code": "PCS1",
+      "school_name": "Trường Đại Học Phòng Cháy Chữa Cháy (Hệ Dân sự Phía Nam)",
+      "school_alias": "dai-hoc-phong-chay-chua-chay-he-dan-su-phia-nam"
+    },
+    {
+      "school_id": 394,
+      "school_code": "PCH",
+      "school_name": "Trường Đại Học Phòng Cháy Chữa Cháy (Phía Bắc)",
+      "school_alias": "dai-hoc-phong-chay-chua-chay-phia-bac"
+    },
+    {
+      "school_id": 395,
+      "school_code": "PCS",
+      "school_name": "Trường Đại Học Phòng Cháy Chữa Cháy (phía Nam)",
+      "school_alias": "dai-hoc-phong-chay-chua-chay-phia-nam"
+    },
+    {
+      "school_id": 324,
+      "school_code": "DPX",
+      "school_name": "Trường Đại Học Phú Xuân",
+      "school_alias": "dai-hoc-phu-xuan"
+    },
+    {
+      "school_id": 396,
+      "school_code": "DPY",
+      "school_name": "Trường Đại Học Phú Yên",
+      "school_alias": "dai-hoc-phu-yen"
+    },
+    {
+      "school_id": 325,
+      "school_code": "DPD",
+      "school_name": "Trường Đại Học Phương Đông",
+      "school_alias": "dai-hoc-phuong-dong"
+    },
+    {
+      "school_id": 397,
+      "school_code": "DPQ",
+      "school_name": "Trường Đại Học Phạm Văn Đồng",
+      "school_alias": "dai-hoc-pham-van-dong"
+    },
+    {
+      "school_id": 398,
+      "school_code": "DQT",
+      "school_name": "Trường Đại Học Quang Trung",
+      "school_alias": "dai-hoc-quang-trung"
+    },
+    {
+      "school_id": 399,
+      "school_code": "DQN",
+      "school_name": "Trường Đại Học Quy Nhơn",
+      "school_alias": "dai-hoc-quy-nhon"
+    },
+    {
+      "school_id": 400,
+      "school_code": "DQB",
+      "school_name": "Trường Đại Học Quảng Bình",
+      "school_alias": "dai-hoc-quang-binh"
+    },
+    {
+      "school_id": 401,
+      "school_code": "DQU",
+      "school_name": "Trường Đại Học Quảng Nam",
+      "school_alias": "dai-hoc-quang-nam"
+    },
+    {
+      "school_id": 402,
+      "school_code": "QSQ",
+      "school_name": "Trường Đại Học Quốc Tế - ĐHQG TPHCM",
+      "school_alias": "dai-hoc-quoc-te-dhqg-tphcm"
+    },
+    {
+      "school_id": 403,
+      "school_code": "DBH",
+      "school_name": "Trường Đại Học Quốc Tế Bắc Hà",
+      "school_alias": "dai-hoc-quoc-te-bac-ha"
+    },
+    {
+      "school_id": 322,
+      "school_code": "HIU",
+      "school_name": "Trường Đại Học Quốc Tế Hồng Bàng",
+      "school_alias": "dai-hoc-quoc-te-hong-bang"
+    },
+    {
+      "school_id": 494,
+      "school_code": "EIU",
+      "school_name": "Trường Đại Học Quốc Tế Miền Đông",
+      "school_alias": "dai-hoc-quoc-te-mien-dong"
+    },
+    {
+      "school_id": 404,
+      "school_code": "RMU",
+      "school_name": "Trường Đại Học Quốc Tế RMIT Việt Nam",
+      "school_alias": "dai-hoc-quoc-te-rmit-viet-nam"
+    },
+    {
+      "school_id": 406,
+      "school_code": "RHM",
+      "school_name": "Trường Đại Học Răng – Hàm – Mặt",
+      "school_alias": "dai-hoc-rang-ham-mat"
+    },
+    {
+      "school_id": 407,
+      "school_code": "SGD",
+      "school_name": "Trường Đại Học Sài Gòn",
+      "school_alias": "dai-hoc-sai-gon"
+    },
+    {
+      "school_id": 408,
+      "school_code": "SKD",
+      "school_name": "Trường Đại Học Sân Khấu Điện Ảnh Hà Nội",
+      "school_alias": "dai-hoc-san-khau-dien-anh-ha-noi"
+    },
+    {
+      "school_id": 493,
+      "school_code": "DSD",
+      "school_name": "Trường Đại Học Sân Khấu Điện Ảnh TPHCM",
+      "school_alias": "dai-hoc-san-khau-dien-anh-tphcm"
+    },
+    {
+      "school_id": 410,
+      "school_code": "DDS",
+      "school_name": "Trường Đại Học Sư Phạm - Đại Học Đà Nẵng",
+      "school_alias": "dai-hoc-su-pham-dai-hoc-da-nang"
+    },
+    {
+      "school_id": 409,
+      "school_code": "DHS",
+      "school_name": "Trường Đại Học Sư Phạm Huế",
+      "school_alias": "dai-hoc-su-pham-hue"
+    },
+    {
+      "school_id": 411,
+      "school_code": "SPH",
+      "school_name": "Trường Đại Học Sư Phạm Hà Nội",
+      "school_alias": "dai-hoc-su-pham-ha-noi"
+    },
+    {
+      "school_id": 412,
+      "school_code": "SP2",
+      "school_name": "Trường Đại Học Sư Phạm Hà Nội 2",
+      "school_alias": "dai-hoc-su-pham-ha-noi-2"
+    },
+    {
+      "school_id": 413,
+      "school_code": "SKH",
+      "school_name": "Trường Đại Học Sư Phạm Kỹ Thuật Hưng Yên",
+      "school_alias": "dai-hoc-su-pham-ky-thuat-hung-yen"
+    },
+    {
+      "school_id": 414,
+      "school_code": "SKN",
+      "school_name": "Trường Đại Học Sư Phạm Kỹ Thuật Nam Định",
+      "school_alias": "dai-hoc-su-pham-ky-thuat-nam-dinh"
+    },
+    {
+      "school_id": 416,
+      "school_code": "SKV",
+      "school_name": "Trường Đại Học Sư Phạm Kỹ Thuật Vinh",
+      "school_alias": "dai-hoc-su-pham-ky-thuat-vinh"
+    },
+    {
+      "school_id": 132,
+      "school_code": "VLU",
+      "school_name": "Trường Đại Học Sư Phạm Kỹ Thuật Vĩnh Long",
+      "school_alias": "dai-hoc-su-pham-ky-thuat-vinh-long"
+    },
+    {
+      "school_id": 417,
+      "school_code": "GNT",
+      "school_name": "Trường Đại Học Sư Phạm Nghệ Thuật Trung Ương",
+      "school_alias": "dai-hoc-su-pham-nghe-thuat-trung-uong"
+    },
+    {
+      "school_id": 420,
+      "school_code": "SPS",
+      "school_name": "Trường Đại Học Sư Phạm TPHCM",
+      "school_alias": "dai-hoc-su-pham-tphcm"
+    },
+    {
+      "school_id": 418,
+      "school_code": "TDH",
+      "school_name": "Trường Đại Học Sư Phạm Thể Dục Thể Thao Hà Nội",
+      "school_alias": "dai-hoc-su-pham-the-duc-the-thao-ha-noi"
+    },
+    {
+      "school_id": 419,
+      "school_code": "STS",
+      "school_name": "Trường Đại Học Sư Phạm Thể Dục Thể Thao TPHCM",
+      "school_alias": "dai-hoc-su-pham-the-duc-the-thao-tphcm"
+    },
+    {
+      "school_id": 520,
+      "school_code": "DDB",
+      "school_name": "Trường Đại Học Thành Đông",
+      "school_alias": "dai-hoc-thanh-dong"
+    },
+    {
+      "school_id": 482,
+      "school_code": "DTB",
+      "school_name": "Trường Đại Học Thái Bình",
+      "school_alias": "dai-hoc-thai-binh"
+    },
+    {
+      "school_id": 424,
+      "school_code": "TBD",
+      "school_name": "Trường Đại Học Thái Bình Dương",
+      "school_alias": "dai-hoc-thai-binh-duong"
+    },
+    {
+      "school_id": 425,
+      "school_code": "DTL",
+      "school_name": "Trường Đại Học Thăng Long",
+      "school_alias": "dai-hoc-thang-long"
+    },
+    {
+      "school_id": 426,
+      "school_code": "TMU",
+      "school_name": "Trường Đại Học Thương Mại",
+      "school_alias": "dai-hoc-thuong-mai"
+    },
+    {
+      "school_id": 427,
+      "school_code": "TDB",
+      "school_name": "Trường Đại Học Thể Dục Thể Thao Bắc Ninh",
+      "school_alias": "dai-hoc-the-duc-the-thao-bac-ninh"
+    },
+    {
+      "school_id": 428,
+      "school_code": "TDS",
+      "school_name": "Trường Đại Học Thể Dục Thể Thao TPHCM",
+      "school_alias": "dai-hoc-the-duc-the-thao-tphcm"
+    },
+    {
+      "school_id": 429,
+      "school_code": "TTD",
+      "school_name": "Trường Đại Học Thể Dục Thể Thao Đà Nẵng",
+      "school_alias": "dai-hoc-the-duc-the-thao-da-nang"
+    },
+    {
+      "school_id": 421,
+      "school_code": "TLA",
+      "school_name": "Trường Đại Học Thủy Lợi",
+      "school_alias": "dai-hoc-thuy-loi-co-so-1"
+    },
+    {
+      "school_id": 422,
+      "school_code": "TLS",
+      "school_name": "Trường Đại Học Thủy Lợi (Cơ sở 2)",
+      "school_alias": "dai-hoc-thuy-loi-co-so-2"
+    },
+    {
+      "school_id": 430,
+      "school_code": "TTG",
+      "school_name": "Trường Đại Học Tiền Giang",
+      "school_alias": "dai-hoc-tien-giang"
+    },
+    {
+      "school_id": 545,
+      "school_code": "DVP",
+      "school_name": "Trường Đại Học Trưng Vương",
+      "school_alias": "dai-hoc-trung-vuong"
+    },
+    {
+      "school_id": 303,
+      "school_code": "DMS",
+      "school_name": "Trường Đại Học Tài Chính Marketing",
+      "school_alias": "dai-hoc-tai-chinh-marketing"
+    },
+    {
+      "school_id": 474,
+      "school_code": "FBU",
+      "school_name": "Trường Đại Học Tài Chính Ngân Hàng Hà Nội",
+      "school_alias": "dai-hoc-tai-chinh-ngan-hang-ha-noi"
+    },
+    {
+      "school_id": 431,
+      "school_code": "TTB",
+      "school_name": "Trường Đại Học Tây Bắc",
+      "school_alias": "dai-hoc-tay-bac"
+    },
+    {
+      "school_id": 432,
+      "school_code": "TTN",
+      "school_name": "Trường Đại Học Tây Nguyên",
+      "school_alias": "dai-hoc-tay-nguyen"
+    },
+    {
+      "school_id": 433,
+      "school_code": "DTD",
+      "school_name": "Trường Đại Học Tây Đô",
+      "school_alias": "dai-hoc-tay-do"
+    },
+    {
+      "school_id": 304,
+      "school_code": "DTT",
+      "school_name": "Trường Đại Học Tôn Đức Thắng",
+      "school_alias": "dai-hoc-ton-duc-thang"
+    },
+    {
+      "school_id": 435,
+      "school_code": "TDV",
+      "school_name": "Trường Đại Học Vinh",
+      "school_alias": "dai-hoc-vinh"
+    },
+    {
+      "school_id": 436,
+      "school_code": "VGU",
+      "school_name": "Trường Đại Học Việt Đức",
+      "school_alias": "dai-hoc-viet-duc"
+    },
+    {
+      "school_id": 437,
+      "school_code": "VTT",
+      "school_name": "Trường Đại Học Võ Trường Toản",
+      "school_alias": "dai-hoc-vo-truong-toan"
+    },
+    {
+      "school_id": 438,
+      "school_code": "DVH",
+      "school_name": "Trường Đại Học Văn Hiến",
+      "school_alias": "dai-hoc-van-hien"
+    },
+    {
+      "school_id": 441,
+      "school_code": "VHH",
+      "school_name": "Trường Đại Học Văn Hóa Hà Nội",
+      "school_alias": "dai-hoc-van-hoa-ha-noi"
+    },
+    {
+      "school_id": 442,
+      "school_code": "VHS",
+      "school_name": "Trường Đại Học Văn Hóa TPHCM",
+      "school_alias": "dai-hoc-van-hoa-tphcm"
+    },
+    {
+      "school_id": 523,
+      "school_code": "DVD",
+      "school_name": "Trường Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa",
+      "school_alias": "dai-hoc-van-hoa-the-thao-va-du-lich-thanh-hoa"
+    },
+    {
+      "school_id": 326,
+      "school_code": "DVL",
+      "school_name": "Trường Đại Học Văn Lang",
+      "school_alias": "dai-hoc-van-lang"
+    },
+    {
+      "school_id": 443,
+      "school_code": "XDA",
+      "school_name": "Trường Đại Học Xây Dựng Hà Nội",
+      "school_alias": "dai-hoc-xay-dung-ha-noi"
+    },
+    {
+      "school_id": 476,
+      "school_code": "XDT",
+      "school_name": "Trường Đại Học Xây Dựng Miền Trung",
+      "school_alias": "dai-hoc-xay-dung-mien-trung"
+    },
+    {
+      "school_id": 472,
+      "school_code": "MTU",
+      "school_name": "Trường Đại Học Xây Dựng Miền Tây",
+      "school_alias": "dai-hoc-xay-dung-mien-tay"
+    },
+    {
+      "school_id": 446,
+      "school_code": "YCT",
+      "school_name": "Trường Đại Học Y Dược Cần Thơ",
+      "school_alias": "dai-hoc-y-duoc-can-tho"
+    },
+    {
+      "school_id": 444,
+      "school_code": "DHY",
+      "school_name": "Trường Đại Học Y Dược Huế",
+      "school_alias": "dai-hoc-y-duoc-hue"
+    },
+    {
+      "school_id": 449,
+      "school_code": "YPB",
+      "school_name": "Trường Đại Học Y Dược Hải Phòng",
+      "school_alias": "dai-hoc-y-duoc-hai-phong"
+    },
+    {
+      "school_id": 451,
+      "school_code": "YTB",
+      "school_name": "Trường Đại Học Y Dược Thái Bình",
+      "school_alias": "dai-hoc-y-duoc-thai-binh"
+    },
+    {
+      "school_id": 445,
+      "school_code": "DTY",
+      "school_name": "Trường Đại Học Y Dược Thái Nguyên",
+      "school_alias": "dai-hoc-y-duoc-thai-nguyen"
+    },
+    {
+      "school_id": 448,
+      "school_code": "YHB",
+      "school_name": "Trường Đại Học Y Hà Nội",
+      "school_alias": "dai-hoc-y-ha-noi"
+    },
+    {
+      "school_id": 450,
+      "school_code": "TYS",
+      "school_name": "Trường Đại Học Y Khoa Phạm Ngọc Thạch",
+      "school_alias": "dai-hoc-y-khoa-pham-ngoc-thach"
+    },
+    {
+      "school_id": 522,
+      "school_code": "YKV",
+      "school_name": "Trường Đại Học Y Khoa Vinh",
+      "school_alias": "dai-hoc-y-khoa-vinh"
+    },
+    {
+      "school_id": 452,
+      "school_code": "YTC",
+      "school_name": "Trường Đại Học Y Tế Công Cộng",
+      "school_alias": "dai-hoc-y-te-cong-cong"
+    },
+    {
+      "school_id": 453,
+      "school_code": "DYD",
+      "school_name": "Trường Đại Học Yersin Đà Lạt",
+      "school_alias": "dai-hoc-yersin-da-lat"
+    },
+    {
+      "school_id": 454,
+      "school_code": "YDD",
+      "school_name": "Trường Đại Học Điều Dưỡng Nam Định",
+      "school_alias": "dai-hoc-dieu-duong-nam-dinh"
+    },
+    {
+      "school_id": 455,
+      "school_code": "DDL",
+      "school_name": "Trường Đại Học Điện Lực",
+      "school_alias": "dai-hoc-dien-luc"
+    },
+    {
+      "school_id": 456,
+      "school_code": "TDL",
+      "school_name": "Trường Đại Học Đà Lạt",
+      "school_alias": "dai-hoc-da-lat"
+    },
+    {
+      "school_id": 457,
+      "school_code": "DAD",
+      "school_name": "Trường Đại Học Đông Á",
+      "school_alias": "dai-hoc-dong-a"
+    },
+    {
+      "school_id": 327,
+      "school_code": "DDU",
+      "school_name": "Trường Đại Học Đông Đô",
+      "school_alias": "dai-hoc-dong-do"
+    },
+    {
+      "school_id": 458,
+      "school_code": "DDN",
+      "school_name": "Trường Đại Học Đại Nam",
+      "school_alias": "dai-hoc-dai-nam"
+    },
+    {
+      "school_id": 469,
+      "school_code": "DNU",
+      "school_name": "Trường Đại Học Đồng Nai",
+      "school_alias": "dai-hoc-dong-nai"
+    },
+    {
+      "school_id": 459,
+      "school_code": "SPD",
+      "school_name": "Trường Đại Học Đồng Tháp",
+      "school_alias": "dai-hoc-dong-thap"
+    },
+    {
+      "school_id": 363,
+      "school_code": "DKC",
+      "school_name": "Trường Đại học Công Nghệ TPHCM",
+      "school_alias": "dai-hoc-cong-nghe-tphcm"
+    },
+    {
+      "school_id": 262,
+      "school_code": "DTC",
+      "school_name": "Trường Đại học Công Nghệ Thông Tin và Truyền Thông Thái Nguyên",
+      "school_alias": "dai-hoc-cong-nghe-thong-tin-va-truyen-thong-thai-nguyen"
+    },
+    {
+      "school_id": 1545,
+      "school_code": "DCN_CD",
+      "school_name": "Trường Đại học Công nghiệp - Hệ Cao đẳng",
+      "school_alias": "truong-dai-hoc-cong-nghiep-he-cao-dang"
+    },
+    {
+      "school_id": 550,
+      "school_code": "DCV",
+      "school_name": "Trường Đại học Công nghiệp Vinh",
+      "school_alias": "dai-hoc-cong-nghiep-vinh"
+    },
+    {
+      "school_id": 25,
+      "school_code": "CCM",
+      "school_name": "Trường Đại học Công nghiệp và Thương mại Hà Nội",
+      "school_alias": "dai-hoc-cong-nghiep-va-thuong-mai-ha-noi"
+    },
+    {
+      "school_id": 58,
+      "school_code": "GTA",
+      "school_name": "Trường Đại học Công nghệ Giao thông vận tải",
+      "school_alias": "dai-hoc-cong-nghe-giao-thong-van-tai"
+    },
+    {
+      "school_id": 553,
+      "school_code": "MIT",
+      "school_name": "Trường Đại học Công nghệ Miền Đông",
+      "school_alias": "dai-hoc-cong-nghe-mien-dong"
+    },
+    {
+      "school_id": 30,
+      "school_code": "VKU",
+      "school_name": "Trường Đại học Công nghệ Thông tin và Truyền thông Việt Hàn - Đại học Đà Nẵng",
+      "school_alias": "dai-hoc-cong-nghe-thong-tin-va-truyen-thong-viet-han-dai-hoc-da-nang"
+    },
+    {
+      "school_id": 578,
+      "school_code": "DHV",
+      "school_name": "Trường Đại học Hùng Vương TPHCM",
+      "school_alias": "dai-hoc-hung-vuong-tphcm"
+    },
+    {
+      "school_id": 307,
+      "school_code": "DCA",
+      "school_name": "Trường Đại học Intracom",
+      "school_alias": "dai-hoc-chu-van-an"
+    },
+    {
+      "school_id": 462,
+      "school_code": "QSY",
+      "school_name": "Trường Đại học Khoa học sức khỏe TPHCM",
+      "school_alias": "dai-hoc-khoa-hoc-suc-khoe-tphcm"
+    },
+    {
+      "school_id": 584,
+      "school_code": "UKH",
+      "school_name": "Trường Đại học Khánh Hòa",
+      "school_alias": "dai-hoc-khanh-hoa"
+    },
+    {
+      "school_id": 1546,
+      "school_code": "UKH_CD",
+      "school_name": "Trường Đại học Khánh Hòa - Hệ Cao đẳng",
+      "school_alias": "truong-dai-hoc-khanh-hoa-he-cao-dang"
+    },
+    {
+      "school_id": 265,
+      "school_code": "QSK",
+      "school_name": "Trường Đại học Kinh Tế Luật TPHCM",
+      "school_alias": "dai-hoc-kinh-te-luat-tphcm"
+    },
+    {
+      "school_id": 359,
+      "school_code": "DTE",
+      "school_name": "Trường Đại học Kinh tế và Quản trị kinh doanh Thái Nguyên",
+      "school_alias": "dai-hoc-kinh-te-quan-tri-kinh-doanh-thai-nguyen"
+    },
+    {
+      "school_id": 583,
+      "school_code": "TKG",
+      "school_name": "Trường Đại học Kiên Giang",
+      "school_alias": "dai-hoc-kien-giang"
+    },
+    {
+      "school_id": 548,
+      "school_code": "DKS",
+      "school_name": "Trường Đại học Kiểm Sát ",
+      "school_alias": "dai-hoc-kiem-sat"
+    },
+    {
+      "school_id": 547,
+      "school_code": "KCC",
+      "school_name": "Trường Đại học Kỹ Thuật Công Nghệ Cần Thơ",
+      "school_alias": "dai-hoc-ky-thuat-cong-nghe-can-tho"
+    },
+    {
+      "school_id": 552,
+      "school_code": "YDN",
+      "school_name": "Trường Đại học Kỹ thuật Y Dược Đà Nẵng",
+      "school_alias": "dai-hoc-ky-thuat-y-duoc-da-nang"
+    },
+    {
+      "school_id": 465,
+      "school_code": "DHA",
+      "school_name": "Trường Đại học Luật Huế",
+      "school_alias": "dai-hoc-luat-dai-hoc-hue"
+    },
+    {
+      "school_id": 266,
+      "school_code": "QHL",
+      "school_name": "Trường Đại học Luật – ĐHQG Hà Nội",
+      "school_alias": "dai-hoc-luat-dai-hoc-quoc-gia-ha-noi"
+    },
+    {
+      "school_id": 539,
+      "school_code": "DNC",
+      "school_name": "Trường Đại học Nam Cần Thơ",
+      "school_alias": "dai-hoc-nam-can-tho"
+    },
+    {
+      "school_id": 78,
+      "school_code": "CEA",
+      "school_name": "Trường Đại học Nghệ An",
+      "school_alias": "dai-hoc-nghe-an"
+    },
+    {
+      "school_id": 382,
+      "school_code": "NTH",
+      "school_name": "Trường Đại học Ngoại thương",
+      "school_alias": "dai-hoc-ngoai-thuong-co-so-phia-bac"
+    },
+    {
+      "school_id": 383,
+      "school_code": "NTS",
+      "school_name": "Trường Đại học Ngoại thương (Cơ sở II)",
+      "school_alias": "dai-hoc-ngoai-thuong-co-so-phia-nam"
+    },
+    {
+      "school_id": 581,
+      "school_code": "LBS",
+      "school_name": "Trường Đại học Nguyễn Huệ",
+      "school_alias": "dai-hoc-nguyen-hue"
+    },
+    {
+      "school_id": 104,
+      "school_code": "DBG",
+      "school_name": "Trường Đại học Nông Lâm Bắc Giang",
+      "school_alias": "dai-hoc-nong-lam-bac-giang"
+    },
+    {
+      "school_id": 478,
+      "school_code": "DNV",
+      "school_name": "Trường Đại học Nội vụ Hà Nội",
+      "school_alias": "dai-hoc-noi-vu-ha-noi"
+    },
+    {
+      "school_id": 321,
+      "school_code": "HPU",
+      "school_name": "Trường Đại học Quản lý và Công nghệ Hải Phòng",
+      "school_alias": "dai-hoc-quan-ly-va-cong-nghe-hai-phong"
+    },
+    {
+      "school_id": 1331,
+      "school_code": "UMT",
+      "school_name": "Trường Đại học Quản lý và công nghệ TPHCM",
+      "school_alias": "dai-hoc-quan-ly-va-cong-nghe-tphcm"
+    },
+    {
+      "school_id": 17,
+      "school_code": "SDU",
+      "school_name": "Trường Đại học Sao Đỏ",
+      "school_alias": "dai-hoc-sao-do"
+    },
+    {
+      "school_id": 1310,
+      "school_code": "DSK",
+      "school_name": "Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng",
+      "school_alias": "dai-hoc-su-pham-ky-thuat-dai-hoc-da-nang"
+    },
+    {
+      "school_id": 29,
+      "school_code": "TDD",
+      "school_name": "Trường Đại học Thành Đô",
+      "school_alias": "dai-hoc-thanh-do"
+    },
+    {
+      "school_id": 460,
+      "school_code": "TDM",
+      "school_name": "Trường Đại học Thủ Dầu Một",
+      "school_alias": "dai-hoc-thu-dau-mot"
+    },
+    {
+      "school_id": 126,
+      "school_code": "HNM",
+      "school_name": "Trường Đại học Thủ Đô Hà Nội",
+      "school_alias": "dai-hoc-thu-do-ha-noi"
+    },
+    {
+      "school_id": 170,
+      "school_code": "UFA",
+      "school_name": "Trường Đại học Tài Chính Kế Toán",
+      "school_alias": ""
+    },
+    {
+      "school_id": 171,
+      "school_code": "DMT",
+      "school_name": "Trường Đại học Tài Nguyên và Môi Trường Hà Nội",
+      "school_alias": "dai-hoc-tai-nguyen-va-moi-truong-ha-noi"
+    },
+    {
+      "school_id": 470,
+      "school_code": "DTM",
+      "school_name": "Trường Đại học Tài Nguyên và Môi Trường TPHCM",
+      "school_alias": "dai-hoc-tai-nguyen-va-moi-truong-tphcm"
+    },
+    {
+      "school_id": 168,
+      "school_code": "DFA",
+      "school_name": "Trường Đại học Tài chính Quản trị kinh doanh",
+      "school_alias": "dai-hoc-tai-chinh-quan-tri-kinh-doanh"
+    },
+    {
+      "school_id": 549,
+      "school_code": "TQU",
+      "school_name": "Trường Đại học Tân Trào",
+      "school_alias": "dai-hoc-tan-trao"
+    },
+    {
+      "school_id": 463,
+      "school_code": "TTU",
+      "school_name": "Trường Đại học Tân Tạo",
+      "school_alias": "dai-hoc-tan-tao"
+    },
+    {
+      "school_id": 405,
+      "school_code": "SIU",
+      "school_name": "Trường Đại học Tư thục Quốc Tế Sài Gòn",
+      "school_alias": "dai-hoc-quoc-te-sai-gon"
+    },
+    {
+      "school_id": 1323,
+      "school_code": "VJU",
+      "school_name": "Trường Đại học Việt Nhật - ĐHQG Hà Nội",
+      "school_alias": "dai-hoc-viet-nhat-ha-noi"
+    },
+    {
+      "school_id": 440,
+      "school_code": "ZNH",
+      "school_name": "Trường Đại học Văn hóa Nghệ thuật Quân đội",
+      "school_alias": "dai-hoc-van-hoa-nghe-thuat-quan-doi"
+    },
+    {
+      "school_id": 471,
+      "school_code": "QHY",
+      "school_name": "Trường Đại học Y Dược - ĐHQG Hà Nội",
+      "school_alias": "dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi"
+    },
+    {
+      "school_id": 585,
+      "school_code": "BMU",
+      "school_name": "Trường Đại học Y Dược Buôn Ma Thuột",
+      "school_alias": "dai-hoc-y-duoc-buon-ma-thuot"
+    },
+    {
+      "school_id": 1313,
+      "school_code": "THU",
+      "school_name": "Trường Đại học Y khoa Tokyo Việt Nam",
+      "school_alias": "dai-hoc-y-khoa-tokyo-viet-nam"
+    },
+    {
+      "school_id": 1312,
+      "school_code": "DDV",
+      "school_name": "Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng",
+      "school_alias": "vien-nghien-cuu-va-dao-tao-viet-anh-dai-hoc-da-nang"
+    },
+    {
+      "school_id": 302,
+      "school_code": "BKA",
+      "school_name": "Đại Học Bách Khoa Hà Nội",
+      "school_alias": "dai-hoc-bach-khoa-ha-noi"
+    },
+    {
+      "school_id": 308,
+      "school_code": "DCN",
+      "school_name": "Đại Học Công Nghiệp Hà Nội",
+      "school_alias": "dai-hoc-cong-nghiep-ha-noi"
+    },
+    {
+      "school_id": 318,
+      "school_code": "TCT",
+      "school_name": "Đại Học Cần Thơ",
+      "school_alias": "dai-hoc-can-tho"
+    },
+    {
+      "school_id": 320,
+      "school_code": "DDT",
+      "school_name": "Đại Học Duy Tân",
+      "school_alias": "dai-hoc-duy-tan"
+    },
+    {
+      "school_id": 357,
+      "school_code": "KHA",
+      "school_name": "Đại Học Kinh Tế Quốc Dân",
+      "school_alias": "dai-hoc-kinh-te-quoc-dan"
+    },
+    {
+      "school_id": 358,
+      "school_code": "KSA",
+      "school_name": "Đại Học Kinh Tế TPHCM",
+      "school_alias": "dai-hoc-kinh-te-tphcm"
+    },
+    {
+      "school_id": 423,
+      "school_code": "PKA",
+      "school_name": "Đại Học Phenikaa",
+      "school_alias": "dai-hoc-phenikaa"
+    },
+    {
+      "school_id": 467,
+      "school_code": "DVT",
+      "school_name": "Đại Học Trà Vinh",
+      "school_alias": "dai-hoc-tra-vinh"
+    },
+    {
+      "school_id": 447,
+      "school_code": "YDS",
+      "school_name": "Đại Học Y Dược TPHCM",
+      "school_alias": "dai-hoc-y-duoc-tphcm"
+    },
+    {
+      "school_id": 1325,
+      "school_code": "KSV",
+      "school_name": "Đại học Kinh Tế TPHCM - Phân hiệu Vĩnh Long",
+      "school_alias": "dai-hoc-kinh-te-tphcm-phan-hieu-vinh-long"
+    },
+    {
+      "school_id": 295,
+      "school_code": "DTS",
+      "school_name": "Đại Học Sư Phạm Thái Nguyên",
+      "school_alias": "dai-hoc-su-pham-thai-nguyen"
+    }
+  ]
+}
